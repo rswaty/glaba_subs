@@ -1,0 +1,147 @@
+---
+title: "Comparisons"
+---
+
+```{r include=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
+library(chorddiag)
+library(htmlwidgets)
+library(igraph)
+library(readr)
+library(tidygraph)
+library(tidyverse)
+
+```
+
+### Comparing Past vs. Present Conditions
+
+Using LANDFIRE’s BpS products, we explore two different ways to visualize past vs. current vegetation patterns. 
+
+* First we present **changes in broad ecosystem types** using an interactive comparison diagram. 
+
+* Second we compare **amounts of succession classes** (past and present) for the most prevalent ecosystems. 
+
+## Comparing Broad Vegetation Trends
+### Summary
+
+
+```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+# read in data
+chord_df <- read_csv("data/bps2evt_chord.csv")
+#view(histFireGVchord)
+
+#convert to matrix
+matrix_df <- as.matrix(as_adjacency_matrix(as_tbl_graph(chord_df),attr = "ACRES"))
+
+#clean up matrix (could be cleaner!)
+matrix_df = subset(matrix_df, select = -c(1:7))
+
+matrix_df <- matrix_df[-c(8:16),]
+
+#make a custom color pallet #eb4034 (redish) #b0af9e(grey)
+
+# ORIGINAL
+groupColors <-c( "#1d4220", # conifer 
+                 "#fc9d03", # grassland
+                 "#56bf5f", # hardwood
+                 "#397d3f", # hardwood-conifer 
+                 "#7db7c7", # riparian 
+                 "#f57fdf", # savannah
+                 "#6e4f1e", # shrubland
+                 "#f5e942", # cur ag
+                 "#1d4220", # cur conifer
+                 "#397d3f", # cur hdw-con
+                 "#b0af9e", # developed
+                 "#eb4034", # exotics
+                 "#fc9d03", # grassland
+                 "#56bf5f", # hardwood
+                 "#7db7c7",
+                 "#6e4f1e"# shrubland
+                 
+
+)
+
+
+
+#make chord diagram
+chord<-chorddiag(data = matrix_df,
+                 type = "bipartite",
+                 groupColors = groupColors,
+                 groupnamePadding = 10,
+                 groupPadding = 3,
+                 groupnameFontsize = 12 ,
+                 showTicks = FALSE,
+                 margin=130,
+                 tooltipGroupConnector = "    &#x25B6;    ",
+                 chordedgeColor = "#363533"
+)
+chord 
+
+#save then print to have white background
+htmlwidgets::saveWidget(chord,
+                        "chord.html",
+                        background = "white",
+                        selfcontained = TRUE
+                        )
+```
+
+
+
+<iframe src="chord.html" height="720" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external=".5"></iframe>
+
+<br>
+
+
+
+```{r old_growth loss, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
+
+library(tidyverse)
+
+## read in data
+
+raw_data <- read.csv("data/final_df_full.csv")
+
+
+## filter, group and add helper columns
+
+old_classes <- c("Late1", "Late2", "Late3")
+
+old_growth_loss <- raw_data %>%
+  filter(age_category %in% old_classes) %>%
+  group_by(bps_name) %>%
+  summarize(ref_percent = mean(ref_percent, na.rm = TRUE),
+            cur_percent = mean(cur_percent, na.rm = TRUE),
+            bps_acres = max(bps_acres)) %>%
+  mutate(cur_percent = replace_na(cur_percent, 0)) %>%
+  mutate(change = cur_percent - ref_percent,
+       sign_change = (change >0)) 
+
+
+# try arrow plot for top 10 BpS Names
+
+old_growth_loss_10 <- old_growth_loss %>%
+  top_n(n = 10, wt = bps_acres)
+
+
+arrow_plot <- old_growth_loss_10 |> 
+  ggplot(aes(
+      x = ref_percent, xend = cur_percent, 
+      y = reorder(bps_name, bps_acres), yend = bps_name,
+      color = sign_change)) +
+  geom_segment(
+    arrow = arrow(angle = 30, length = unit(0.5, 'cm')),
+    size = 3) +
+  labs(
+    x = 'Percent Change', 
+    y = element_blank(),
+    title = 'Changes in Late Succession Classes,  \nHistorical to ~2022',
+    subtitle = 'Arrows in descending order by total extent of ecosystem'
+  ) +
+  scale_color_manual(
+    values = c("#fcba03", "#10692c")) +
+  theme_bw(base_size = 14) + 
+  theme(legend.position = "none")
+
+
+arrow_plot
+```
+

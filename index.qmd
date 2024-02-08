@@ -1,0 +1,27 @@
+---
+title: "Great Lakes Basin Assessment-Quick Web Report"
+author: "Randy Swaty"
+date: today
+---
+
+## Goals of this demonstration
+
+I put this together with [LANDFIRE](https://landfire.gov/){target="blank"} data (and model results) to:
+
+1. Help us think through the area of interest
+2. Give us an initial look at vegetation across the entire area
+3. Set the stage for exploration of other related datasets.
+
+**All maps and charts should be considered draft if this statement is here. ** 
+
+## Location
+
+Great Lakes Basin Assessment Area-USFS Terrestrial Sub-Sections
+
+![](images/aoi.jpg){width=100%}
+
+
+
+
+
+

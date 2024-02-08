@@ -1,0 +1,1237 @@
+﻿OID_,Value,Count,Clip_bps_220,Clip_scls_230,BPS_MODEL,BPS_NAME,GROUPVEG,LABEL
+1,1,9050958.000000000000000,11,111,0,Open Water,Open Water,Water
+2,2,691540.000000000000000,1610,4,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,D
+3,3,7811.000000000000000,1613,7,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UE
+4,4,1392868.000000000000000,1597,4,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,D
+5,5,1950930.000000000000000,1608,4,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,D
+6,6,2855013.000000000000000,1598,2,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,B
+7,7,22356.000000000000000,1597,3,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,C
+8,8,97238.000000000000000,1597,7,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,UE
+9,9,860.000000000000000,1597,2,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,B
+10,10,1408881.000000000000000,1608,3,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,C
+11,11,33662.000000000000000,1610,3,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,C
+12,12,30255.000000000000000,1597,1,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,A
+13,13,50343.000000000000000,1608,7,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,UE
+14,14,2019.000000000000000,1611,6,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UN
+15,15,95202.000000000000000,1608,2,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,B
+16,16,22953.000000000000000,1613,4,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,D
+17,17,75291.000000000000000,1610,1,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,A
+18,18,21072.000000000000000,1610,7,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,UE
+19,19,5517512.000000000000000,1596,4,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,D
+20,20,204917.000000000000000,1596,7,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,UE
+21,21,22543.000000000000000,1610,2,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,B
+22,22,12.000000000000000,1611,7,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UE
+23,23,8.000000000000000,1611,2,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,B
+24,24,108845.000000000000000,1596,1,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,A
+25,25,119766.000000000000000,1608,6,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,UN
+26,26,99145.000000000000000,1613,6,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UN
+27,27,202436.000000000000000,1608,1,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,A
+28,28,437749.000000000000000,1598,6,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,UN
+29,29,5894.000000000000000,1613,2,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,B
+30,30,106931.000000000000000,1597,120,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,Developed
+31,31,16987.000000000000000,1610,120,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Developed
+32,32,94713.000000000000000,1596,3,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,C
+33,33,5.000000000000000,1611,3,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,C
+34,34,93676.000000000000000,1598,7,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,UE
+35,35,288.000000000000000,1596,2,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,B
+36,36,44529.000000000000000,1597,180,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,Agriculture
+37,37,524109.000000000000000,1596,180,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Agriculture
+38,38,369087.000000000000000,1596,120,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Developed
+39,39,24496.000000000000000,1608,180,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Agriculture
+40,40,426.000000000000000,-1111,-1111,-1111,Fill-Not Mapped,Fill-Not Mapped,Fill-Not Mapped
+41,41,53381.000000000000000,1598,1,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,A
+42,42,114924.000000000000000,1593,3,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,C
+43,43,72908.000000000000000,1593,5,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,E
+44,44,381129.000000000000000,1605,3,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,C
+45,45,386178.000000000000000,1605,6,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,UN
+46,46,14968.000000000000000,1610,180,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Agriculture
+47,47,10572.000000000000000,1613,180,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+48,48,8496.000000000000000,1593,7,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,UE
+49,49,13628.000000000000000,1598,3,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,C
+50,50,10062.000000000000000,1605,7,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,UE
+51,51,625802.000000000000000,2724,2,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,B
+52,52,230304.000000000000000,2724,4,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,D
+53,53,11109.000000000000000,1593,1,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,A
+54,54,7065.000000000000000,1593,6,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,UN
+55,55,80452.000000000000000,2724,120,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,Developed
+56,56,75551.000000000000000,2724,7,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,UE
+57,57,113437.000000000000000,1598,120,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,Developed
+58,58,39144.000000000000000,2724,6,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,UN
+59,59,27698.000000000000000,2724,1,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,A
+60,60,64721.000000000000000,1608,120,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Developed
+61,61,9568.000000000000000,1605,2,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,B
+62,62,196077.000000000000000,1607,6,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UN
+63,63,13156.000000000000000,1605,120,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Developed
+64,64,4485.000000000000000,1598,132,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,Barren or Sparse
+65,65,2652.000000000000000,1605,1,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,A
+66,66,6811.000000000000000,1593,120,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,Developed
+67,67,6313.000000000000000,1605,180,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Agriculture
+68,68,25.000000000000000,1592,6,13310_39_40_41,Eastern Great Plains Tallgrass Aspen Parkland,Hardwood,UN
+69,69,1.000000000000000,1592,3,13310_39_40_41,Eastern Great Plains Tallgrass Aspen Parkland,Hardwood,C
+70,70,53.000000000000000,1613,1,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,A
+71,71,736.000000000000000,1608,5,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,E
+72,72,31126.000000000000000,1598,180,13653_41,Boreal White Spruce-Fir-Hardwood Forest-Aspen-Birch,Conifer,Agriculture
+73,73,1387664.000000000000000,1588,5,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,E
+74,74,54433.000000000000000,1607,3,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,C
+75,75,833794.000000000000000,1588,6,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UN
+76,76,4416.000000000000000,1607,2,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,B
+77,77,5378.000000000000000,1607,7,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UE
+78,78,65.000000000000000,1606,3,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,C
+79,79,181.000000000000000,1605,4,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,D
+80,80,509684.000000000000000,1602,3,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,C
+81,81,2431.000000000000000,1596,132,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Barren or Sparse
+82,82,6595.000000000000000,1607,120,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Developed
+83,83,3395.000000000000000,1613,120,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+84,84,78596.000000000000000,1588,3,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,C
+85,85,1693.000000000000000,1593,180,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,Agriculture
+86,86,39328.000000000000000,1588,2,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,B
+87,87,49501.000000000000000,1597,132,13652_41,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,Barren or Sparse
+88,88,37909.000000000000000,1602,120,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Developed
+89,89,68769.000000000000000,1588,7,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UE
+90,90,97183.000000000000000,1602,7,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,UE
+91,91,82.000000000000000,1593,4,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,D
+92,92,239.000000000000000,1613,3,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,C
+93,93,6786.000000000000000,1602,1,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,A
+94,94,189080.000000000000000,1588,120,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Developed
+95,95,286.000000000000000,1606,6,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+96,96,15.000000000000000,1606,120,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+97,97,540.000000000000000,1610,132,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Barren or Sparse
+98,98,611.000000000000000,1602,2,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,B
+99,99,180213.000000000000000,1588,180,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Agriculture
+100,100,19.000000000000000,1593,132,13440_41,Boreal Jack Pine-Black Spruce Forest,Conifer,Barren or Sparse
+101,101,35.000000000000000,1602,4,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,D
+102,102,17369.000000000000000,1602,180,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Agriculture
+103,103,122.000000000000000,1602,132,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Barren or Sparse
+104,104,48872.000000000000000,2724,180,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,Agriculture
+105,105,67658.000000000000000,31,132,0,Barren-Rock/Sand/Clay,Barren-Rock/Sand/Clay,Barren or Sparse
+106,106,150273.000000000000000,1624,7,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,UE
+107,107,19347.000000000000000,1624,1,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,A
+108,108,2103360.000000000000000,1624,4,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,D
+109,109,11936704.000000000000000,1639,4,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,D
+110,110,1788596.000000000000000,1620,4,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,D
+111,111,40920.000000000000000,1624,3,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,C
+112,112,319249.000000000000000,1624,120,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,Developed
+113,113,329483.000000000000000,1620,120,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,Developed
+114,114,212877.000000000000000,1639,120,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Developed
+115,115,355456.000000000000000,1620,3,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,C
+116,116,343901.000000000000000,1620,7,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,UE
+117,117,5784.000000000000000,1640,120,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Developed
+118,118,4021759.000000000000000,1637,4,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,D
+119,119,63805.000000000000000,1640,6,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UN
+120,120,3013555.000000000000000,1639,3,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,C
+121,121,1534901.000000000000000,1637,3,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,C
+122,122,227099.000000000000000,1639,7,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,UE
+123,123,69398.000000000000000,1637,120,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Developed
+124,124,2828.000000000000000,1640,3,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,C
+125,125,4330901.000000000000000,1625,4,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,D
+126,126,839080.000000000000000,1639,1,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,A
+127,127,667481.000000000000000,1624,180,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,Agriculture
+128,128,28359.000000000000000,1640,2,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,B
+129,129,513312.000000000000000,1639,2,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,B
+130,130,188471.000000000000000,1637,1,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,A
+131,131,14965.000000000000000,1620,1,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,A
+132,132,244843.000000000000000,1637,2,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,B
+133,133,34897.000000000000000,1620,180,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,Agriculture
+134,134,551999.000000000000000,1636,6,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UN
+135,135,524200.000000000000000,1636,3,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,C
+136,136,202657.000000000000000,1639,180,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Agriculture
+137,137,68676.000000000000000,1637,7,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,UE
+138,138,4049928.000000000000000,1623,4,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,D
+139,139,131.000000000000000,1624,2,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,B
+140,140,111234.000000000000000,1621,3,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,C
+141,141,97386.000000000000000,1621,6,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,UN
+142,142,9888566.000000000000000,1614,5,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,E
+143,143,3157658.000000000000000,1614,6,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UN
+144,144,56060.000000000000000,1640,7,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UE
+145,145,301486.000000000000000,1623,7,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,UE
+146,146,2390522.000000000000000,1614,3,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,C
+147,147,1898957.000000000000000,1614,120,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Developed
+148,148,471971.000000000000000,1623,120,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Developed
+149,149,1853107.000000000000000,1614,7,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UE
+150,150,4190842.000000000000000,1614,180,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Agriculture
+151,151,98424.000000000000000,1637,6,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,UN
+152,152,30891.000000000000000,1621,120,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,Developed
+153,153,80020.000000000000000,1623,3,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,C
+154,154,1302.000000000000000,1608,132,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Barren or Sparse
+155,155,13336.000000000000000,2724,5,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,E
+156,156,1500.000000000000000,1588,132,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Barren or Sparse
+157,157,233261.000000000000000,1614,2,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,B
+158,158,444807.000000000000000,1625,7,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,UE
+159,159,29062.000000000000000,1625,3,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,C
+160,160,872852.000000000000000,1625,120,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Developed
+161,161,70197.000000000000000,1620,6,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,UN
+162,162,743384.000000000000000,1623,180,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Agriculture
+163,163,27089.000000000000000,1621,7,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,UE
+164,164,40655.000000000000000,1625,1,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,A
+165,165,40840.000000000000000,1623,1,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,A
+166,166,2012444.000000000000000,1622,120,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Developed
+167,167,7047697.000000000000000,1622,2,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,B
+168,168,35135.000000000000000,1625,2,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,B
+169,169,2950496.000000000000000,1622,180,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Agriculture
+170,170,594927.000000000000000,1622,3,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,C
+171,171,1118102.000000000000000,1628,5,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,E
+172,172,1649572.000000000000000,1622,7,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,UE
+173,173,4414459.000000000000000,1615,5,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,E
+174,174,6063.000000000000000,1621,2,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,B
+175,175,1135044.000000000000000,1615,6,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UN
+176,176,4291.000000000000000,1637,5,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,E
+177,177,2891432.000000000000000,1625,180,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Agriculture
+178,178,127.000000000000000,1623,2,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,B
+179,179,4761.000000000000000,1640,180,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Agriculture
+180,180,577.000000000000000,1614,1,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,A
+181,181,15979.000000000000000,1636,120,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Developed
+182,182,21744.000000000000000,1636,7,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UE
+183,183,51750.000000000000000,1622,1,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,A
+184,184,23075.000000000000000,1637,180,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Agriculture
+185,185,444.000000000000000,2724,132,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,Barren or Sparse
+186,186,1.000000000000000,1606,132,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,Barren or Sparse
+187,187,105.000000000000000,1613,132,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Barren or Sparse
+188,188,241.000000000000000,1605,132,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Barren or Sparse
+189,189,11.000000000000000,1606,7,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+190,190,14.000000000000000,1606,180,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+191,191,10004.000000000000000,1591,3,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,C
+192,192,919.000000000000000,1591,120,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,Developed
+193,193,2097.000000000000000,1591,6,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,UN
+194,194,366.000000000000000,1591,7,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,UE
+195,195,401.000000000000000,1588,1,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,A
+196,196,787.000000000000000,1591,180,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,Agriculture
+197,197,7099.000000000000000,1607,180,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Agriculture
+198,198,635.000000000000000,1641,2,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,B
+199,199,4076.000000000000000,1641,6,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UN
+200,200,409548.000000000000000,1615,7,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UE
+201,201,708188.000000000000000,1615,120,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Developed
+202,202,27904.000000000000000,1621,180,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,Agriculture
+203,203,2322928.000000000000000,1615,3,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,C
+204,204,1339718.000000000000000,1615,180,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Agriculture
+205,205,16595.000000000000000,1614,132,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Barren or Sparse
+206,206,245.000000000000000,1591,2,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,B
+207,207,18784.000000000000000,1590,4,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,D
+208,208,1290.000000000000000,1590,5,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,E
+209,209,5069.000000000000000,1590,3,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,C
+210,210,13.000000000000000,1591,132,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,Barren or Sparse
+211,211,11.000000000000000,1607,132,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Barren or Sparse
+212,212,19422.000000000000000,1636,2,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,B
+213,213,27447.000000000000000,1636,180,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Agriculture
+214,214,264.000000000000000,1621,132,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,Barren or Sparse
+215,215,4353.000000000000000,1639,132,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Barren or Sparse
+216,216,4294.000000000000000,1623,132,13651_51,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Barren or Sparse
+217,217,3429.000000000000000,1624,132,13652_51,Boreal White Spruce-Fir-Hardwood Forest-Coastal,Conifer,Barren or Sparse
+218,218,3616.000000000000000,1641,4,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,D
+219,219,119853.000000000000000,1615,2,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,B
+220,220,46.000000000000000,1607,1,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,A
+221,221,5283.000000000000000,1620,2,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,B
+222,222,101404.000000000000000,1633,6,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,UN
+223,223,277846.000000000000000,1633,3,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,C
+224,224,4757.000000000000000,1633,7,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,UE
+225,225,54324.000000000000000,1634,3,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,C
+226,226,266.000000000000000,1634,180,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,Agriculture
+227,227,13519.000000000000000,1633,180,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Agriculture
+228,228,2070.000000000000000,1634,120,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,Developed
+229,229,1962.000000000000000,1634,4,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,D
+230,230,1533.000000000000000,1634,1,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,A
+231,231,1860.000000000000000,1634,7,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,UE
+232,232,1436.000000000000000,1641,7,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UE
+233,233,2066.000000000000000,1641,180,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+234,234,4296.000000000000000,1633,120,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Developed
+235,235,1617.000000000000000,1615,132,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Barren or Sparse
+236,236,210.000000000000000,1615,1,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,A
+237,237,32152.000000000000000,1616,6,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,UN
+238,238,517.000000000000000,1641,120,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+239,239,10599.000000000000000,1616,7,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,UE
+240,240,209268.000000000000000,1616,5,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,E
+241,241,16881.000000000000000,1616,120,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,Developed
+242,242,165116.000000000000000,1616,3,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,C
+243,243,14037.000000000000000,1616,180,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,Agriculture
+244,244,9703.000000000000000,1616,2,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,B
+245,245,12.000000000000000,1616,132,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,Barren or Sparse
+246,246,4.000000000000000,1616,1,13023_51,Laurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood,Hardwood,A
+247,247,754.000000000000000,1633,4,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,D
+248,248,1477.000000000000000,1625,132,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Barren or Sparse
+249,249,686043.000000000000000,1589,5,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,E
+250,250,23535.000000000000000,1589,7,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UE
+251,251,77510.000000000000000,1589,6,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UN
+252,252,12074.000000000000000,1589,2,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,B
+253,253,143407.000000000000000,1589,3,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,C
+254,254,101.000000000000000,1640,1,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,A
+255,255,461172.000000000000000,1629,3,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,C
+256,256,166.000000000000000,1634,2,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,B
+257,257,15.000000000000000,1589,1,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,A
+258,258,45459.000000000000000,1589,120,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Developed
+259,259,533991.000000000000000,1628,120,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Developed
+260,260,1955078.000000000000000,1628,4,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,D
+261,261,824765.000000000000000,1628,7,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,UE
+262,262,37220.000000000000000,1628,6,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,UN
+263,263,129321.000000000000000,1628,3,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,C
+264,264,79595.000000000000000,1628,180,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Agriculture
+265,265,12890.000000000000000,1628,1,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,A
+266,266,58924.000000000000000,1629,120,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Developed
+267,267,1.000000000000000,1606,2,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,B
+268,268,2015.000000000000000,1590,180,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Agriculture
+269,269,700.000000000000000,1590,7,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UE
+270,270,1910.000000000000000,1590,120,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Developed
+271,271,2309.000000000000000,1633,2,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,B
+272,272,98606.000000000000000,1589,180,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Agriculture
+273,273,74868.000000000000000,1629,7,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,UE
+274,274,2278.000000000000000,1629,1,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,A
+275,275,975.000000000000000,1629,2,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,B
+276,276,12074.000000000000000,1629,180,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Agriculture
+277,277,683.000000000000000,1628,2,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,B
+278,278,12.000000000000000,1641,1,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,A
+279,279,11.000000000000000,1629,4,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,D
+280,280,129.000000000000000,1599,3,13940_39_40_41,North-Central Interior Oak Savanna,Hardwood,C
+281,281,121.000000000000000,1599,2,13940_39_40_41,North-Central Interior Oak Savanna,Hardwood,B
+282,282,4.000000000000000,1599,120,13940_39_40_41,North-Central Interior Oak Savanna,Hardwood,Developed
+283,283,85.000000000000000,1589,132,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Barren or Sparse
+284,284,37733.000000000000000,1640,132,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Barren or Sparse
+285,285,1740.000000000000000,1620,132,13441_51,Boreal Jack Pine-Black Spruce Forest-Pine Barrens,Conifer,Barren or Sparse
+286,286,2936.000000000000000,1628,132,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Barren or Sparse
+287,287,6932.000000000000000,1622,132,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Barren or Sparse
+288,288,39.000000000000000,1621,1,13442_51,Boreal Jack Pine-Black Spruce Forest-Spruce-Fir,Conifer,A
+289,289,2677.000000000000000,1600,3,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,C
+290,290,806.000000000000000,1600,2,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,B
+291,291,107.000000000000000,1600,4,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,D
+292,292,375.000000000000000,1600,7,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,UE
+293,293,266.000000000000000,1600,120,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,Developed
+294,294,16014.000000000000000,1601,5,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,E
+295,295,4077.000000000000000,1601,4,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,D
+296,296,1455.000000000000000,1601,7,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,UE
+297,297,755.000000000000000,1601,3,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,C
+298,298,13.000000000000000,1601,2,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,B
+299,299,39.000000000000000,1601,6,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,UN
+300,300,2280.000000000000000,1601,120,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Developed
+301,301,266.000000000000000,1601,1,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,A
+302,302,97.000000000000000,1600,6,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,UN
+303,303,1093.000000000000000,1637,132,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Barren or Sparse
+304,304,69.000000000000000,1590,1,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,A
+305,305,453.000000000000000,1601,180,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Agriculture
+306,306,164.000000000000000,1633,1,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,A
+307,307,21.000000000000000,1636,1,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,A
+308,308,4.000000000000000,1641,3,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,C
+309,309,2.000000000000000,1611,120,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Developed
+310,310,12.000000000000000,1590,2,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,B
+311,311,30.000000000000000,1590,6,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UN
+312,312,150638.000000000000000,1583,1,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,A
+313,313,437415.000000000000000,1581,3,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,C
+314,314,2094791.000000000000000,1583,4,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,D
+315,315,118747.000000000000000,1581,2,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,B
+316,316,40149.000000000000000,1581,6,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,UN
+317,317,38238.000000000000000,1581,1,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,A
+318,318,88994.000000000000000,1583,7,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,UE
+319,319,1743155.000000000000000,1581,4,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,D
+320,320,211658.000000000000000,1584,6,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UN
+321,321,16977.000000000000000,1584,2,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,B
+322,322,2917.000000000000000,1584,3,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,C
+323,323,73186.000000000000000,1581,180,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Agriculture
+324,324,74055.000000000000000,1581,7,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,UE
+325,325,4112.000000000000000,1568,1,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,A
+326,326,15428.000000000000000,1568,7,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,UE
+327,327,676896.000000000000000,1583,3,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,C
+328,328,304942.000000000000000,1568,4,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,D
+329,329,570771.000000000000000,1562,6,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UN
+330,330,665677.000000000000000,1562,3,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,C
+331,331,2499099.000000000000000,1562,5,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,E
+332,332,1704.000000000000000,1568,3,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,C
+333,333,23145.000000000000000,1568,120,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Developed
+334,334,9090.000000000000000,2725,2,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,B
+335,335,1308.000000000000000,2725,3,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,C
+336,336,44427.000000000000000,1583,120,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Developed
+337,337,553341.000000000000000,2726,4,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,D
+338,338,1349117.000000000000000,2726,2,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,B
+339,339,221281.000000000000000,1562,7,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UE
+340,340,3902.000000000000000,2725,120,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Developed
+341,341,24260.000000000000000,1583,2,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,B
+342,342,29524.000000000000000,1562,2,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,B
+343,343,38563.000000000000000,2726,5,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,E
+344,344,5659.000000000000000,2725,7,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,UE
+345,345,113699.000000000000000,2726,6,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,UN
+346,346,173123.000000000000000,2726,7,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,UE
+347,347,296102.000000000000000,2726,120,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,Developed
+348,348,19979.000000000000000,2726,1,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,A
+349,349,674811.000000000000000,1561,7,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UE
+350,350,731905.000000000000000,1561,6,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,UN
+351,351,3513637.000000000000000,1561,5,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,E
+352,352,1159179.000000000000000,1561,3,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,C
+353,353,47219.000000000000000,1577,3,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,C
+354,354,26465.000000000000000,1568,180,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Agriculture
+355,355,49212.000000000000000,1581,120,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Developed
+356,356,3852.000000000000000,1577,4,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,D
+357,357,16031.000000000000000,2725,180,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Agriculture
+358,358,613676.000000000000000,1569,4,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,D
+359,359,88.000000000000000,2725,1,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,A
+360,360,5983560.000000000000000,1561,180,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Agriculture
+361,361,672042.000000000000000,1562,180,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Agriculture
+362,362,355237.000000000000000,1562,120,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Developed
+363,363,184.000000000000000,1562,1,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,A
+364,364,1575898.000000000000000,1561,120,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Developed
+365,365,442554.000000000000000,2726,180,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,Agriculture
+366,366,3655.000000000000000,1577,6,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,UN
+367,367,183.000000000000000,1577,180,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Agriculture
+368,368,902.000000000000000,1577,120,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Developed
+369,369,369.000000000000000,1581,5,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,E
+370,370,617.000000000000000,1577,7,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,UE
+371,371,251009.000000000000000,1583,180,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Agriculture
+372,372,28791.000000000000000,1561,2,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,B
+373,373,9978.000000000000000,1584,120,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Developed
+374,374,1558.000000000000000,1629,132,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Barren or Sparse
+375,375,393387.000000000000000,1958,180,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Agriculture
+376,376,673113.000000000000000,1958,6,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UN
+377,377,267078.000000000000000,1958,2,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,B
+378,378,724108.000000000000000,1958,3,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,C
+379,379,3207052.000000000000000,1943,5,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,E
+380,380,31492.000000000000000,1943,1,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,A
+381,381,1087085.000000000000000,1943,6,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,UN
+382,382,277833.000000000000000,1943,2,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,B
+383,383,528372.000000000000000,1943,7,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,UE
+384,384,1353585.000000000000000,1943,3,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,C
+385,385,67263.000000000000000,1956,1,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,A
+386,386,160704.000000000000000,1956,6,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+387,387,212279.000000000000000,1956,3,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,C
+388,388,212748.000000000000000,1956,180,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+389,389,1635773.000000000000000,1943,180,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,Agriculture
+390,390,181684.000000000000000,1957,1,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,A
+391,391,383712.000000000000000,1957,3,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,C
+392,392,454547.000000000000000,1957,2,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,B
+393,393,74812.000000000000000,1958,120,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Developed
+394,394,175829.000000000000000,1957,180,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,Agriculture
+395,395,238264.000000000000000,1963,2,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,B
+396,396,49625.000000000000000,1963,7,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UE
+397,397,434858.000000000000000,1943,120,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,Developed
+398,398,422360.000000000000000,1963,180,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Agriculture
+399,399,170269.000000000000000,1958,7,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UE
+400,400,61381.000000000000000,1963,6,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UN
+401,401,16047.000000000000000,1963,1,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,A
+402,402,4869.000000000000000,1948,6,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,UN
+403,403,113361.000000000000000,1948,180,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,Agriculture
+404,404,52561.000000000000000,1957,120,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,Developed
+405,405,50696.000000000000000,1956,120,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+406,406,81985.000000000000000,1963,120,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Developed
+407,407,4863.000000000000000,1960,2,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,B
+408,408,3106.000000000000000,1960,6,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,UN
+409,409,125443.000000000000000,1957,7,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,UE
+410,410,35526.000000000000000,1960,3,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,C
+411,411,1616869.000000000000000,1947,4,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,D
+412,412,36874.000000000000000,1964,6,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,UN
+413,413,324889.000000000000000,1947,7,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,UE
+414,414,316654.000000000000000,1947,180,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Agriculture
+415,415,74127.000000000000000,1947,2,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,B
+416,416,76340.000000000000000,1956,2,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,B
+417,417,37428.000000000000000,1948,120,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,Developed
+418,418,36772.000000000000000,1948,7,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,UE
+419,419,168460.000000000000000,1948,3,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,C
+420,420,743733.000000000000000,1946,2,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,B
+421,421,29192.000000000000000,1946,1,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,A
+422,422,24001.000000000000000,1948,1,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,A
+423,423,56300.000000000000000,1948,2,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,B
+424,424,45044.000000000000000,1964,3,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,C
+425,425,2536.000000000000000,1943,132,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,Barren or Sparse
+426,426,111147.000000000000000,1956,7,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+427,427,719.000000000000000,1962,4,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,D
+428,428,173773.000000000000000,1950,2,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,B
+429,429,26375.000000000000000,1947,1,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,A
+430,430,7427.000000000000000,1964,2,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,B
+431,431,139290.000000000000000,1947,120,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Developed
+432,432,69710.000000000000000,1946,3,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,C
+433,433,159163.000000000000000,1946,7,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,UE
+434,434,91827.000000000000000,1950,7,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,UE
+435,435,126197.000000000000000,1946,120,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Developed
+436,436,3262.000000000000000,1964,120,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,Developed
+437,437,3070.000000000000000,1964,180,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,Agriculture
+438,438,18057.000000000000000,1964,7,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,UE
+439,439,6117.000000000000000,1960,180,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,Agriculture
+440,440,1924.000000000000000,1962,180,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+441,441,415.000000000000000,1962,6,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UN
+442,442,452.000000000000000,1962,7,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UE
+443,443,11780.000000000000000,1950,120,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,Developed
+444,444,107749.000000000000000,1950,3,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,C
+445,445,6886.000000000000000,1950,6,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,UN
+446,446,5.000000000000000,1599,7,13940_39_40_41,North-Central Interior Oak Savanna,Hardwood,UE
+447,447,9.000000000000000,1599,180,13940_39_40_41,North-Central Interior Oak Savanna,Hardwood,Agriculture
+448,448,23.000000000000000,1601,132,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Barren or Sparse
+449,449,329.000000000000000,1600,180,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,Agriculture
+450,450,16.000000000000000,1590,132,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Barren or Sparse
+451,451,2.000000000000000,1600,132,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,Barren or Sparse
+452,452,7406.000000000000000,1584,7,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UE
+453,453,7103.000000000000000,1561,132,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Barren or Sparse
+454,454,13776.000000000000000,1564,3,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,C
+455,455,17786.000000000000000,1564,120,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Developed
+456,456,23331.000000000000000,1564,5,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,E
+457,457,35.000000000000000,1564,4,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,D
+458,458,541.000000000000000,1562,132,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,Barren or Sparse
+459,459,14738.000000000000000,1564,7,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UE
+460,460,101437.000000000000000,1569,120,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Developed
+461,461,33.000000000000000,1577,1,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,A
+462,462,11041.000000000000000,1576,6,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,UN
+463,463,65952.000000000000000,1576,120,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,Developed
+464,464,218311.000000000000000,1586,4,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,D
+465,465,131164.000000000000000,1586,6,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UN
+466,466,15307.000000000000000,1576,7,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,UE
+467,467,260113.000000000000000,1576,180,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,Agriculture
+468,468,4731.000000000000000,1569,2,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,B
+469,469,2741.000000000000000,1575,120,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Developed
+470,470,12722.000000000000000,1575,6,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UN
+471,471,6109.000000000000000,1575,7,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UE
+472,472,16672.000000000000000,1575,180,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Agriculture
+473,473,213.000000000000000,1561,1,13022_41_50_51,Laurentian-Acadian Northern Hardwoods Forest-Hemlock,Hardwood,A
+474,474,74.000000000000000,1581,132,14770_40_41_50_51,Boreal Acidic Peatland Systems,Riparian,Barren or Sparse
+475,475,2367.000000000000000,1576,1,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,A
+476,476,1184.000000000000000,1569,3,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,C
+477,477,74.000000000000000,1576,3,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,C
+478,478,369992.000000000000000,1580,3,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,C
+479,479,205278.000000000000000,1580,6,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UN
+480,480,346961.000000000000000,1569,180,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Agriculture
+481,481,22194.000000000000000,1586,2,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,B
+482,482,9823.000000000000000,1960,7,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,UE
+483,483,91.000000000000000,1962,2,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,B
+484,484,15268.000000000000000,1950,1,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,A
+485,485,3795.000000000000000,1960,120,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,Developed
+486,486,572.000000000000000,1962,120,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+487,487,7243.000000000000000,1947,3,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,C
+488,488,312994.000000000000000,1946,180,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Agriculture
+489,489,1156.000000000000000,1964,1,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,A
+490,490,86300.000000000000000,1959,4,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,D
+491,491,16736.000000000000000,1959,7,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,UE
+492,492,262.000000000000000,1958,132,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Barren or Sparse
+493,493,9.000000000000000,1958,4,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,D
+494,494,4770.000000000000000,1945,4,13540_64_66,Northeastern Interior Pine Barrens,Conifer,D
+495,495,2057.000000000000000,1945,3,13540_64_66,Northeastern Interior Pine Barrens,Conifer,C
+496,496,11808.000000000000000,1945,180,13540_64_66,Northeastern Interior Pine Barrens,Conifer,Agriculture
+497,497,7548.000000000000000,1945,120,13540_64_66,Northeastern Interior Pine Barrens,Conifer,Developed
+498,498,4637.000000000000000,1945,7,13540_64_66,Northeastern Interior Pine Barrens,Conifer,UE
+499,499,19037.000000000000000,1945,5,13540_64_66,Northeastern Interior Pine Barrens,Conifer,E
+500,500,3877.000000000000000,1603,6,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UN
+501,501,1403.000000000000000,1603,7,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UE
+502,502,160.000000000000000,1603,120,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Developed
+503,503,69.000000000000000,1603,180,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Agriculture
+504,504,63011.000000000000000,1569,7,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,UE
+505,505,2.000000000000000,1577,2,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,B
+506,506,7346.000000000000000,1580,120,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Developed
+507,507,5331.000000000000000,1586,120,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+508,508,4814.000000000000000,1580,2,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,B
+509,509,4360.000000000000000,1569,1,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,A
+510,510,9143.000000000000000,1586,7,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UE
+511,511,9182.000000000000000,1580,7,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UE
+512,512,349817.000000000000000,1563,120,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Developed
+513,513,58096.000000000000000,1563,7,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UE
+514,514,1376.000000000000000,1563,5,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,E
+515,515,5.000000000000000,1568,2,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,B
+516,516,74682.000000000000000,1563,4,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,D
+517,517,128.000000000000000,1575,2,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,B
+518,518,716.000000000000000,1586,3,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,C
+519,519,4248.000000000000000,1580,180,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Agriculture
+520,520,27561.000000000000000,1586,180,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+521,521,17979.000000000000000,1959,3,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,C
+522,522,694.000000000000000,1946,132,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Barren or Sparse
+523,523,56843.000000000000000,1959,6,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,UN
+524,524,5849.000000000000000,1950,180,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,Agriculture
+525,525,3894.000000000000000,1959,120,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,Developed
+526,526,2284.000000000000000,1959,180,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,Agriculture
+527,527,1347.000000000000000,1945,6,13540_64_66,Northeastern Interior Pine Barrens,Conifer,UN
+528,528,234.000000000000000,1945,2,13540_64_66,Northeastern Interior Pine Barrens,Conifer,B
+529,529,5231.000000000000000,1959,1,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,A
+530,530,39.000000000000000,1948,132,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,Barren or Sparse
+531,531,2931.000000000000000,1959,2,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,B
+532,532,154.000000000000000,1583,132,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Barren or Sparse
+533,533,6.000000000000000,1568,132,13651_40_41_50,Boreal White Spruce-Fir-Hardwood Forest-Inland,Conifer,Barren or Sparse
+534,534,154.000000000000000,1569,132,13660_50,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Barren or Sparse
+535,535,71.000000000000000,1586,1,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,A
+536,536,862.000000000000000,2726,132,13622_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated,Hardwood-Conifer,Barren or Sparse
+537,537,111.000000000000000,1633,132,14440_41_50_51,Eastern Boreal Floodplain,Hardwood,Barren or Sparse
+538,538,18.000000000000000,1960,1,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,A
+539,539,27.000000000000000,1959,5,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,E
+540,540,356.000000000000000,1963,132,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Barren or Sparse
+541,541,7.000000000000000,1960,132,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,Barren or Sparse
+542,542,73.000000000000000,1943,4,13020_64,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,D
+543,543,8.000000000000000,1586,132,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Barren or Sparse
+544,544,175.000000000000000,1945,132,13540_64_66,Northeastern Interior Pine Barrens,Conifer,Barren or Sparse
+545,545,2.000000000000000,1963,3,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,C
+546,546,19.000000000000000,1946,4,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,D
+547,547,834.000000000000000,1947,132,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Barren or Sparse
+548,548,1312.000000000000000,1952,3,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,C
+549,549,209.000000000000000,1952,4,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,D
+550,550,1287.000000000000000,1952,6,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,UN
+551,551,577755.000000000000000,1573,3,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,C
+552,552,14.000000000000000,1580,1,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,A
+553,553,106524.000000000000000,1573,180,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Agriculture
+554,554,66575.000000000000000,1573,7,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,UE
+555,555,24405.000000000000000,1584,180,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Agriculture
+556,556,749466.000000000000000,1951,2,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,B
+557,557,1224759.000000000000000,1951,3,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,C
+558,558,45438.000000000000000,1951,1,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,A
+559,559,56971.000000000000000,1951,7,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,UE
+560,560,46892.000000000000000,1951,6,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,UN
+561,561,10.000000000000000,1945,1,13540_64_66,Northeastern Interior Pine Barrens,Conifer,A
+562,562,44155.000000000000000,1951,120,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,Developed
+563,563,33656.000000000000000,1953,6,13890_64_66,Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Shrubland,UN
+564,564,462.000000000000000,1953,7,13890_64_66,Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Shrubland,UE
+565,565,7528.000000000000000,1951,180,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,Agriculture
+566,566,122103.000000000000000,1573,120,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Developed
+567,567,3649.000000000000000,1573,1,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,A
+568,568,1040.000000000000000,1573,2,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,B
+569,569,135960.000000000000000,1578,3,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,C
+570,570,13828.000000000000000,1578,120,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,Developed
+571,571,3760.000000000000000,1578,4,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,D
+572,572,4405.000000000000000,1578,1,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,A
+573,573,12243.000000000000000,1578,7,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,UE
+574,574,10892.000000000000000,1578,180,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,Agriculture
+575,575,549732.000000000000000,1618,4,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,D
+576,576,201192.000000000000000,1618,3,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,C
+577,577,36.000000000000000,1950,132,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,Barren or Sparse
+578,578,5.000000000000000,1964,132,15260_64_65_66,Laurentian-Acadian Swamp Systems,Riparian,Barren or Sparse
+579,579,2.000000000000000,1952,132,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,Barren or Sparse
+580,580,239.000000000000000,1952,180,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,Agriculture
+581,581,230578.000000000000000,1949,2,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,B
+582,582,79123.000000000000000,1949,3,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,C
+583,583,28208.000000000000000,1563,3,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,C
+584,584,824602.000000000000000,1570,120,13940_50_51,North-Central Interior Oak Savanna,Hardwood,Developed
+585,585,365752.000000000000000,1563,180,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Agriculture
+586,586,1480641.000000000000000,1618,180,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Agriculture
+587,587,667109.000000000000000,1618,120,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Developed
+588,588,311646.000000000000000,1618,7,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UE
+589,589,2870.000000000000000,1618,2,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,B
+590,590,4.000000000000000,1948,4,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,D
+591,591,77.000000000000000,1958,1,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,A
+592,592,377.000000000000000,1573,132,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,Barren or Sparse
+593,593,49096.000000000000000,1564,180,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Agriculture
+594,594,925.000000000000000,1564,132,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Barren or Sparse
+595,595,87.000000000000000,1957,132,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,Barren or Sparse
+596,596,4.000000000000000,1953,180,13890_64_66,Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Shrubland,Agriculture
+597,597,1.000000000000000,1951,4,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,D
+598,598,1.000000000000000,1951,5,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,E
+599,599,837.000000000000000,1584,1,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,A
+600,600,822.000000000000000,1578,2,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,B
+601,601,1.000000000000000,1959,132,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,Barren or Sparse
+602,602,89.000000000000000,1952,2,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,B
+603,603,727213.000000000000000,1570,4,13940_50_51,North-Central Interior Oak Savanna,Hardwood,D
+604,604,486709.000000000000000,1570,3,13940_50_51,North-Central Interior Oak Savanna,Hardwood,C
+605,605,90020.000000000000000,1570,1,13940_50_51,North-Central Interior Oak Savanna,Hardwood,A
+606,606,25916.000000000000000,1574,3,14090_50_64,Great Lakes Alvar,Conifer,C
+607,607,28222.000000000000000,1574,180,14090_50_64,Great Lakes Alvar,Conifer,Agriculture
+608,608,12498.000000000000000,1574,120,14090_50_64,Great Lakes Alvar,Conifer,Developed
+609,609,2369.000000000000000,1574,7,14090_50_64,Great Lakes Alvar,Conifer,UE
+610,610,647.000000000000000,1574,6,14090_50_64,Great Lakes Alvar,Conifer,UN
+611,611,4.000000000000000,1954,4,14000_64,Central Appalachian Alkaline Glade and Woodland,Savanna,D
+612,612,1.000000000000000,1954,1,14000_64,Central Appalachian Alkaline Glade and Woodland,Savanna,A
+613,613,1.000000000000000,1954,7,14000_64,Central Appalachian Alkaline Glade and Woodland,Savanna,UE
+614,614,1.000000000000000,1954,180,14000_64,Central Appalachian Alkaline Glade and Woodland,Savanna,Agriculture
+615,615,3.000000000000000,1954,120,14000_64,Central Appalachian Alkaline Glade and Woodland,Savanna,Developed
+616,616,9.000000000000000,1951,132,13740_64_65_66,Acadian-Appalachian Montane Spruce-Fir Forest,Hardwood-Conifer,Barren or Sparse
+617,617,7.000000000000000,1962,3,14940_64,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,C
+618,618,4.000000000000000,1950,5,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,E
+619,619,4.000000000000000,1950,4,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,D
+620,620,667368.000000000000000,1570,7,13940_50_51,North-Central Interior Oak Savanna,Hardwood,UE
+621,621,14.000000000000000,1573,4,14072_41_50_51,Laurentian Pine-Oak Barrens-Jack Pine,Conifer,D
+622,622,156.000000000000000,1574,132,14090_50_64,Great Lakes Alvar,Conifer,Barren or Sparse
+623,623,25.000000000000000,1574,1,14090_50_64,Great Lakes Alvar,Conifer,A
+624,624,1075129.000000000000000,1617,4,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,D
+625,625,24174.000000000000000,1617,5,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,E
+626,626,467821.000000000000000,1617,3,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,C
+627,627,664701.000000000000000,1617,7,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UE
+628,628,4495052.000000000000000,1617,180,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Agriculture
+629,629,133.000000000000000,1636,132,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Barren or Sparse
+630,630,5151.000000000000000,1955,180,14090_50_64,Great Lakes Alvar,Conifer,Agriculture
+631,631,2062.000000000000000,1955,6,14090_50_64,Great Lakes Alvar,Conifer,UN
+632,632,532.000000000000000,1955,2,14090_50_64,Great Lakes Alvar,Conifer,B
+633,633,4322.000000000000000,1955,1,14090_50_64,Great Lakes Alvar,Conifer,A
+634,634,1040.000000000000000,1955,3,14090_50_64,Great Lakes Alvar,Conifer,C
+635,635,155.000000000000000,1955,7,14090_50_64,Great Lakes Alvar,Conifer,UE
+636,636,239.000000000000000,1955,120,14090_50_64,Great Lakes Alvar,Conifer,Developed
+637,637,1026.000000000000000,1952,7,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,UE
+638,638,2.000000000000000,1953,120,13890_64_66,Acadian-Appalachian Subalpine Woodland and Heath-Krummholz,Shrubland,Developed
+639,639,7.000000000000000,1574,2,14090_50_64,Great Lakes Alvar,Conifer,B
+640,640,2.000000000000000,1955,132,14090_50_64,Great Lakes Alvar,Conifer,Barren or Sparse
+641,641,207664.000000000000000,1949,180,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Agriculture
+642,642,88022.000000000000000,1949,120,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Developed
+643,643,141367.000000000000000,1949,7,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,UE
+644,644,22732.000000000000000,1949,6,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,UN
+645,645,24.000000000000000,1952,120,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,Developed
+646,646,215986.000000000000000,1571,3,13950_50,North-Central Oak Barrens,Hardwood,C
+647,647,369046.000000000000000,1571,180,13950_50,North-Central Oak Barrens,Hardwood,Agriculture
+648,648,164360.000000000000000,1571,4,13950_50,North-Central Oak Barrens,Hardwood,D
+649,649,180714.000000000000000,1571,7,13950_50,North-Central Oak Barrens,Hardwood,UE
+650,650,116261.000000000000000,1571,120,13950_50,North-Central Oak Barrens,Hardwood,Developed
+651,651,2888898.000000000000000,1570,180,13940_50_51,North-Central Interior Oak Savanna,Hardwood,Agriculture
+652,652,9.000000000000000,1634,132,14660_50_51,Great Lakes Wooded Dune and Swale,Riparian,Barren or Sparse
+653,653,8241.000000000000000,1618,1,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,A
+654,654,320790.000000000000000,1890,2,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,B
+655,655,703543.000000000000000,1890,6,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,UN
+656,656,2512042.000000000000000,1890,5,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,E
+657,657,7331332.000000000000000,1890,180,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,Agriculture
+658,658,1832240.000000000000000,1890,7,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,UE
+659,659,29159.000000000000000,1890,1,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,A
+660,660,24788.000000000000000,1906,7,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UE
+661,661,18964.000000000000000,1895,1,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,A
+662,662,68073.000000000000000,1895,7,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,UE
+663,663,284029.000000000000000,1895,180,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,Agriculture
+664,664,10227.000000000000000,1903,7,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,UE
+665,665,7678.000000000000000,1903,6,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,UN
+666,666,10148.000000000000000,1903,180,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,Agriculture
+667,667,2708810.000000000000000,1890,120,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,Developed
+668,668,230046.000000000000000,1906,180,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Agriculture
+669,669,3806.000000000000000,1903,3,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,C
+670,670,574861.000000000000000,1904,7,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,UE
+671,671,1757.000000000000000,1903,2,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,B
+672,672,19179.000000000000000,1906,2,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,B
+673,673,13706.000000000000000,1903,4,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,D
+674,674,21545.000000000000000,1906,6,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UN
+675,675,549.000000000000000,1906,3,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,C
+676,676,1988422.000000000000000,1904,3,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,C
+677,677,482.000000000000000,1895,6,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,UN
+678,678,110273.000000000000000,1904,6,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,UN
+679,679,1358152.000000000000000,1904,180,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,Agriculture
+680,680,5483.000000000000000,1903,120,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,Developed
+681,681,89.000000000000000,1903,1,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,A
+682,682,649148.000000000000000,1904,120,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,Developed
+683,683,235046.000000000000000,1904,2,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,B
+684,684,1649604.000000000000000,1890,3,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,C
+685,685,78487.000000000000000,1906,120,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Developed
+686,686,176018.000000000000000,1900,120,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+687,687,124697.000000000000000,1895,3,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,C
+688,688,110634.000000000000000,1895,2,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,B
+689,689,418064.000000000000000,1900,180,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+690,690,128877.000000000000000,1894,4,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,D
+691,691,7402.000000000000000,1894,2,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,B
+692,692,51443.000000000000000,1894,7,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,UE
+693,693,82094.000000000000000,1900,7,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+694,694,113218.000000000000000,1900,6,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+695,695,160286.000000000000000,1894,180,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Agriculture
+696,696,42561.000000000000000,1894,120,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Developed
+697,697,193744.000000000000000,1895,120,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,Developed
+698,698,232371.000000000000000,1900,3,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,C
+699,699,5.000000000000000,1957,5,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,E
+700,700,12.000000000000000,1956,132,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,Barren or Sparse
+701,701,2.000000000000000,1948,5,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,E
+702,702,6.000000000000000,1584,132,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Barren or Sparse
+703,703,2122.000000000000000,1570,5,13940_50_51,North-Central Interior Oak Savanna,Hardwood,E
+704,704,3842.000000000000000,1570,132,13940_50_51,North-Central Interior Oak Savanna,Hardwood,Barren or Sparse
+705,705,4603.000000000000000,1563,1,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,A
+706,706,2074151.000000000000000,1617,120,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Developed
+707,707,4.000000000000000,1641,132,14940_41_50_51,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Barren or Sparse
+708,708,54153.000000000000000,1900,1,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,A
+709,709,368778.000000000000000,1896,7,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,UE
+710,710,579268.000000000000000,1896,120,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Developed
+711,711,761902.000000000000000,1896,2,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,B
+712,712,1135280.000000000000000,1896,180,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Agriculture
+713,713,62876.000000000000000,1896,6,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,UN
+714,714,324912.000000000000000,1896,3,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,C
+715,715,183901.000000000000000,1901,7,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,UE
+716,716,2.000000000000000,1957,4,14720_64_65_66,Central Interior and Appalachian Riparian Systems,Riparian,D
+717,717,181.000000000000000,1564,2,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,B
+718,718,6.000000000000000,1956,4,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,D
+719,719,41.000000000000000,1949,1,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,A
+720,720,139.000000000000000,1571,5,13950_50,North-Central Oak Barrens,Hardwood,E
+721,721,8162.000000000000000,1618,5,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,E
+722,722,31.000000000000000,1949,4,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,D
+723,723,176.000000000000000,1564,6,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UN
+724,724,1675.000000000000000,1571,6,13950_50,North-Central Oak Barrens,Hardwood,UN
+725,725,416.000000000000000,1563,6,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UN
+726,726,2970089.000000000000000,1619,3,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,C
+727,727,2079572.000000000000000,1635,3,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,C
+728,728,2177246.000000000000000,1638,3,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,C
+729,729,79660.000000000000000,1638,1,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,A
+730,730,2204614.000000000000000,1635,6,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+731,731,269535.000000000000000,1635,7,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+732,732,29667.000000000000000,1907,120,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+733,733,17790.000000000000000,1907,2,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,B
+734,734,28814.000000000000000,1907,6,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UN
+735,735,22535.000000000000000,1907,7,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,UE
+736,736,7666.000000000000000,1571,1,13950_50,North-Central Oak Barrens,Hardwood,A
+737,737,134.000000000000000,1571,2,13950_50,North-Central Oak Barrens,Hardwood,B
+738,738,19260.000000000000000,1635,2,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,B
+739,739,126121.000000000000000,1635,120,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+740,740,168395.000000000000000,1638,180,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,Agriculture
+741,741,195519.000000000000000,1638,7,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,UE
+742,742,146917.000000000000000,1638,6,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,UN
+743,743,309339.000000000000000,1635,180,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+744,744,491.000000000000000,1907,3,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,C
+745,745,9913.000000000000000,1907,4,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,D
+746,746,463566.000000000000000,1901,180,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,Agriculture
+747,747,165051.000000000000000,1901,120,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,Developed
+748,748,116210.000000000000000,1907,180,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+749,749,266846.000000000000000,1901,3,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,C
+750,750,431758.000000000000000,1901,2,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,B
+751,751,79198.000000000000000,1901,1,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,A
+752,752,77654.000000000000000,1900,2,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,B
+753,753,798.000000000000000,1904,1,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,A
+754,754,393.000000000000000,1896,1,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,A
+755,755,83.000000000000000,1575,1,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,A
+756,756,1070.000000000000000,1564,1,13110_50,North-Central Interior Dry Oak Forest and Woodland,Hardwood,A
+757,757,342.000000000000000,1570,2,13940_50_51,North-Central Interior Oak Savanna,Hardwood,B
+758,758,275278.000000000000000,1585,6,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,UN
+759,759,4356.000000000000000,1585,120,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+760,760,2088766.000000000000000,1619,7,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,UE
+761,761,18701449.000000000000000,1619,180,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,Agriculture
+762,762,6881109.000000000000000,1619,120,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,Developed
+763,763,78641.000000000000000,1619,1,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,A
+764,764,8179.000000000000000,1619,2,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,B
+765,765,4862.000000000000000,1904,132,14790_60_61_63_64_65_66,Central Interior and Appalachian Swamp Systems,Riparian,Barren or Sparse
+766,766,10339.000000000000000,1890,132,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,Barren or Sparse
+767,767,1040.000000000000000,1896,132,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Barren or Sparse
+768,768,378.000000000000000,1896,4,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,D
+769,769,811.000000000000000,1890,4,13020_63,Laurentian-Acadian Northern Hardwoods Forest,Hardwood,D
+770,770,1.000000000000000,1944,3,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,C
+771,771,6.000000000000000,1944,5,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,E
+772,772,121.000000000000000,1949,132,13700_60_63_64_65_66,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Barren or Sparse
+773,773,186088.000000000000000,1566,7,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,UE
+774,774,150156.000000000000000,1566,3,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,C
+775,775,117480.000000000000000,1566,6,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,UN
+776,776,1036472.000000000000000,1566,180,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,Agriculture
+777,777,15.000000000000000,1563,2,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,B
+778,778,580295.000000000000000,1566,120,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,Developed
+779,779,3789.000000000000000,1572,120,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Developed
+780,780,5666.000000000000000,1572,7,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,UE
+781,781,7839.000000000000000,1572,5,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,E
+782,782,13828.000000000000000,1572,180,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Agriculture
+783,783,5094.000000000000000,1565,1,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,A
+784,784,6016.000000000000000,1572,4,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,D
+785,785,43535.000000000000000,1579,3,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,C
+786,786,103734.000000000000000,1579,6,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+787,787,6029.000000000000000,1579,7,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+788,788,2490.000000000000000,1579,120,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+789,789,48048.000000000000000,1585,4,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,D
+790,790,4071.000000000000000,1579,180,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+791,791,16175.000000000000000,1585,7,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,UE
+792,792,1670.000000000000000,1585,2,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,B
+793,793,59.000000000000000,1572,3,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,C
+794,794,760.000000000000000,1566,2,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,B
+795,795,50.000000000000000,1572,6,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,UN
+796,796,178.000000000000000,1572,1,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,A
+797,797,14062.000000000000000,1638,2,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,B
+798,798,68075.000000000000000,1638,120,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,Developed
+799,799,397.000000000000000,1638,132,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,Barren or Sparse
+800,800,384.000000000000000,1635,132,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,Barren or Sparse
+801,801,47286.000000000000000,1908,7,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UE
+802,802,94553.000000000000000,1908,2,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,B
+803,803,205882.000000000000000,1908,180,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Agriculture
+804,804,1630.000000000000000,1908,1,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,A
+805,805,19919.000000000000000,1908,6,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UN
+806,806,368.000000000000000,1895,132,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,Barren or Sparse
+807,807,202.000000000000000,1907,132,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,Barren or Sparse
+808,808,80.000000000000000,1901,132,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,Barren or Sparse
+809,809,67657.000000000000000,1908,120,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Developed
+810,810,3.000000000000000,1944,4,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,D
+811,811,10.000000000000000,1956,5,14710_64_65,Central Interior and Appalachian Floodplain Systems,Riparian,E
+812,812,30111.000000000000000,1585,180,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+813,813,4.000000000000000,1572,2,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,B
+814,814,410.000000000000000,1571,132,13950_50,North-Central Oak Barrens,Hardwood,Barren or Sparse
+815,815,276.000000000000000,1635,1,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,A
+816,816,7798.000000000000000,1619,132,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,Barren or Sparse
+817,817,21145.000000000000000,1617,1,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,A
+818,818,761.000000000000000,1563,132,13100_44_50,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Barren or Sparse
+819,819,961.000000000000000,1579,2,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,B
+820,820,98.000000000000000,1585,3,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,C
+821,821,4.000000000000000,1572,132,14071_41_50_51,Laurentian Pine-Oak Barrens,Hardwood-Conifer,Barren or Sparse
+822,822,3517.000000000000000,1566,132,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,Barren or Sparse
+823,823,6.000000000000000,1579,1,14710_41_50,Central Interior and Appalachian Floodplain Systems,Riparian,A
+824,824,6373.000000000000000,1617,6,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UN
+825,825,2500.000000000000000,1897,180,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,Agriculture
+826,826,5198.000000000000000,1897,2,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,B
+827,827,1673.000000000000000,1897,7,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,UE
+828,828,1699.000000000000000,1897,3,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,C
+829,829,840.000000000000000,1897,120,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,Developed
+830,830,305.000000000000000,1897,1,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,A
+831,831,23.000000000000000,1906,1,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,A
+832,832,9.000000000000000,1900,5,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,E
+833,833,1135.000000000000000,1894,1,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,A
+834,834,1120.000000000000000,1894,3,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,C
+835,835,1.000000000000000,1944,180,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,Agriculture
+836,836,1.000000000000000,1907,1,14940_63_65_66,Laurentian-Acadian Shrub-Herbaceous Wetland Systems,Riparian,A
+837,837,1.000000000000000,1576,2,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,B
+838,838,275654.000000000000000,1565,120,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,Developed
+839,839,82638.000000000000000,1565,3,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,C
+840,840,78093.000000000000000,1565,7,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,UE
+841,841,455377.000000000000000,1565,180,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,Agriculture
+842,842,11.000000000000000,1585,132,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Barren or Sparse
+843,843,61.000000000000000,1585,1,14930_41_42_44_50,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,A
+844,844,348.000000000000000,1906,132,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Barren or Sparse
+845,845,414.000000000000000,1900,132,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,Barren or Sparse
+846,846,28.000000000000000,1901,5,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,E
+847,847,9541.000000000000000,1905,120,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Developed
+848,848,55468.000000000000000,1905,180,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Agriculture
+849,849,11334.000000000000000,1893,120,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Developed
+850,850,10144.000000000000000,1893,180,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Agriculture
+851,851,15.000000000000000,1895,5,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,E
+852,852,18267.000000000000000,1893,2,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,B
+853,853,30.000000000000000,1895,4,13690_60_61_63_64_65_66,Central Appalachian Dry Oak-Pine Forest,Hardwood-Conifer,D
+854,854,5838.000000000000000,1898,6,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,UN
+855,855,3916.000000000000000,1898,3,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,C
+856,856,956.000000000000000,1898,7,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,UE
+857,857,417.000000000000000,1908,132,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Barren or Sparse
+858,858,3.000000000000000,1900,4,14710_47_48_53_54_57_59_60_61_63,Central Interior and Appalachian Floodplain Systems,Riparian,D
+859,859,2908.000000000000000,1893,7,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,UE
+860,860,109.000000000000000,1893,1,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,A
+861,861,21549.000000000000000,1905,3,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,C
+862,862,5.000000000000000,1566,1,13140_38_39_40_41_42_43_44_50,North-Central Interior Maple-Basswood Forest,Hardwood,A
+863,863,4.000000000000000,2725,132,13620_41_50,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,Barren or Sparse
+864,864,406.000000000000000,1565,2,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,B
+865,865,243050.000000000000000,1630,120,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Developed
+866,866,70481.000000000000000,1630,3,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,C
+867,867,46431.000000000000000,1630,7,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,UE
+868,868,270118.000000000000000,1630,180,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Agriculture
+869,869,1015.000000000000000,1630,2,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,B
+870,870,7641.000000000000000,1630,1,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,A
+871,871,515.000000000000000,1630,6,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,UN
+872,872,536988.000000000000000,1626,120,13940_50_51,North-Central Interior Oak Savanna,Hardwood,Developed
+873,873,3241.000000000000000,1626,1,13940_50_51,North-Central Interior Oak Savanna,Hardwood,A
+874,874,40274.000000000000000,1626,3,13940_50_51,North-Central Interior Oak Savanna,Hardwood,C
+875,875,80063.000000000000000,1626,4,13940_50_51,North-Central Interior Oak Savanna,Hardwood,D
+876,876,61469.000000000000000,1626,7,13940_50_51,North-Central Interior Oak Savanna,Hardwood,UE
+877,877,494417.000000000000000,1626,180,13940_50_51,North-Central Interior Oak Savanna,Hardwood,Agriculture
+878,878,1914.000000000000000,1898,180,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,Agriculture
+879,879,22.000000000000000,1903,132,14770_63_64_65_66,Boreal Acidic Peatland Systems,Riparian,Barren or Sparse
+880,880,14977.000000000000000,1905,7,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,UE
+881,881,16848.000000000000000,1905,4,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,D
+882,882,5795.000000000000000,1905,2,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,B
+883,883,466.000000000000000,1893,3,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,C
+884,884,28.000000000000000,1908,3,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,C
+885,885,3802.000000000000000,1905,1,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,A
+886,886,22467.000000000000000,1902,7,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UE
+887,887,74900.000000000000000,1902,180,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Agriculture
+888,888,35778.000000000000000,1902,6,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,UN
+889,889,36522.000000000000000,1582,7,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,UE
+890,890,12314.000000000000000,1582,1,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,A
+891,891,382042.000000000000000,1582,3,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,C
+892,892,18384.000000000000000,1582,120,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,Developed
+893,893,46991.000000000000000,1582,180,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,Agriculture
+894,894,50477.000000000000000,1582,6,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,UN
+895,895,156.000000000000000,1617,2,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,B
+896,896,242.000000000000000,1898,4,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,D
+897,897,1659.000000000000000,1898,120,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,Developed
+898,898,19881.000000000000000,1902,120,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Developed
+899,899,36912.000000000000000,1902,3,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,C
+900,900,20788.000000000000000,1902,2,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,B
+901,901,373.000000000000000,1898,2,13770_60_61_63_64_65_66,Central Appalachian Pine-Oak Rocky Woodland,Hardwood-Conifer,B
+902,902,61.000000000000000,1576,132,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,Barren or Sparse
+903,903,1965.000000000000000,1582,2,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,B
+904,904,1091.000000000000000,1565,132,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,Barren or Sparse
+905,905,5.000000000000000,1902,1,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,A
+906,906,37.000000000000000,1582,132,14790_41_42_47_48_50_51_53,Central Interior and Appalachian Swamp Systems,Riparian,Barren or Sparse
+907,907,3425.000000000000000,1617,132,13100_51,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Barren or Sparse
+908,908,1701.000000000000000,1618,132,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Barren or Sparse
+909,909,4.000000000000000,1901,4,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,D
+910,910,10.000000000000000,1587,7,15170_42_49_50,Paleozoic Plateau Bluff and Talus,Hardwood-Conifer,UE
+911,911,1.000000000000000,1587,180,15170_42_49_50,Paleozoic Plateau Bluff and Talus,Hardwood-Conifer,Agriculture
+912,912,37912.000000000000000,1631,6,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UN
+913,913,144815.000000000000000,1631,120,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Developed
+914,914,39046.000000000000000,1631,7,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UE
+915,915,412956.000000000000000,1631,180,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Agriculture
+916,916,618.000000000000000,1631,2,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,B
+917,917,58.000000000000000,1631,1,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,A
+918,918,59.000000000000000,1631,3,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,C
+919,919,8.000000000000000,1905,132,14810_41_50_51_63,Laurentian-Acadian Alkaline Conifer-Hardwood Swamp,Riparian,Barren or Sparse
+920,920,5.000000000000000,1897,6,13730_63_64,Acadian Low-Elevation Spruce-Fir-Hardwood Forest,Hardwood-Conifer,UN
+921,921,40.000000000000000,1894,132,13660_51_63_64_65_66,Laurentian-Acadian Pine-Hemlock-Hardwood Forest,Hardwood-Conifer,Barren or Sparse
+922,922,19.000000000000000,1902,132,14750_41_50_51_63_64_65_66,Laurentian-Acadian Floodplain Systems,Riparian,Barren or Sparse
+923,923,288226.000000000000000,1632,180,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,Agriculture
+924,924,3240896.000000000000000,1627,180,13950_51,North-Central Oak Barrens,Hardwood,Agriculture
+925,925,2207259.000000000000000,1627,120,13950_51,North-Central Oak Barrens,Hardwood,Developed
+926,926,1002586.000000000000000,1627,4,13950_51,North-Central Oak Barrens,Hardwood,D
+927,927,4.000000000000000,1893,4,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,D
+928,928,37.000000000000000,1891,120,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,Developed
+929,929,7.000000000000000,1891,7,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,UE
+930,930,453822.000000000000000,1627,3,13950_51,North-Central Oak Barrens,Hardwood,C
+931,931,653048.000000000000000,1627,7,13950_51,North-Central Oak Barrens,Hardwood,UE
+932,932,120926.000000000000000,1632,120,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,Developed
+933,933,73625.000000000000000,1632,7,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,UE
+934,934,114131.000000000000000,1632,6,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,UN
+935,935,8186.000000000000000,1627,1,13950_51,North-Central Oak Barrens,Hardwood,A
+936,936,17652.000000000000000,1627,6,13950_51,North-Central Oak Barrens,Hardwood,UN
+937,937,37.000000000000000,1899,120,14000_63,Central Appalachian Alkaline Glade and Woodland,Savanna,Developed
+938,938,12.000000000000000,1891,4,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,D
+939,939,5.000000000000000,1891,5,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,E
+940,940,2.000000000000000,1891,3,13030_61_63_64_65_66,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,C
+941,941,2.000000000000000,1899,7,14000_63,Central Appalachian Alkaline Glade and Woodland,Savanna,UE
+942,942,5.000000000000000,1899,180,14000_63,Central Appalachian Alkaline Glade and Woodland,Savanna,Agriculture
+943,943,12277.000000000000000,1632,1,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,A
+944,944,1025.000000000000000,1632,3,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,C
+945,945,6768.000000000000000,1627,132,13950_51,North-Central Oak Barrens,Hardwood,Barren or Sparse
+946,946,8426.000000000000000,1627,5,13950_51,North-Central Oak Barrens,Hardwood,E
+947,947,1985.000000000000000,1626,5,13940_50_51,North-Central Interior Oak Savanna,Hardwood,E
+948,948,240.000000000000000,1627,2,13950_51,North-Central Oak Barrens,Hardwood,B
+949,949,15.000000000000000,1618,6,13110_51,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UN
+950,950,542.000000000000000,1626,132,13940_50_51,North-Central Interior Oak Savanna,Hardwood,Barren or Sparse
+951,951,19.000000000000000,1626,2,13940_50_51,North-Central Interior Oak Savanna,Hardwood,B
+952,952,180.000000000000000,1630,132,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Barren or Sparse
+953,953,130.000000000000000,1632,132,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,Barren or Sparse
+954,954,1006584.000000000000000,2017,120,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Developed
+955,955,465580.000000000000000,2017,180,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Agriculture
+956,956,353249.000000000000000,2029,180,14210_49_52,Central Tallgrass Prairie,Grassland,Agriculture
+957,957,1265717.000000000000000,2029,120,14210_49_52,Central Tallgrass Prairie,Grassland,Developed
+958,958,134604.000000000000000,2017,7,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UE
+959,959,284.000000000000000,2036,180,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Agriculture
+960,960,232569.000000000000000,2017,4,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,D
+961,961,67845.000000000000000,2017,3,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,C
+962,962,161404.000000000000000,2029,6,14210_49_52,Central Tallgrass Prairie,Grassland,UN
+963,963,73928.000000000000000,2029,7,14210_49_52,Central Tallgrass Prairie,Grassland,UE
+964,964,31455.000000000000000,2029,1,14210_49_52,Central Tallgrass Prairie,Grassland,A
+965,965,19657.000000000000000,2017,1,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,A
+966,966,834.000000000000000,2017,6,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UN
+967,967,451.000000000000000,2029,3,14210_49_52,Central Tallgrass Prairie,Grassland,C
+968,968,102090.000000000000000,2031,3,14660_49,Great Lakes Wooded Dune and Swale,Riparian,C
+969,969,14068.000000000000000,2031,180,14660_49,Great Lakes Wooded Dune and Swale,Riparian,Agriculture
+970,970,8232.000000000000000,2033,6,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+971,971,2440.000000000000000,2017,5,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,E
+972,972,15375.000000000000000,2020,180,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,Agriculture
+973,973,13517.000000000000000,2033,180,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+974,974,9041.000000000000000,2034,180,14720_49,Central Interior and Appalachian Riparian Systems,Riparian,Agriculture
+975,975,1005.000000000000000,2017,132,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Barren or Sparse
+976,976,2127.000000000000000,2029,132,14210_49_52,Central Tallgrass Prairie,Grassland,Barren or Sparse
+977,977,52977.000000000000000,2020,120,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,Developed
+978,978,22762.000000000000000,2020,3,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,C
+979,979,14042.000000000000000,2020,6,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,UN
+980,980,27609.000000000000000,2031,7,14660_49,Great Lakes Wooded Dune and Swale,Riparian,UE
+981,981,2337.000000000000000,2034,3,14720_49,Central Interior and Appalachian Riparian Systems,Riparian,C
+982,982,1250.000000000000000,2034,7,14720_49,Central Interior and Appalachian Riparian Systems,Riparian,UE
+983,983,280962.000000000000000,2031,120,14660_49,Great Lakes Wooded Dune and Swale,Riparian,Developed
+984,984,24329.000000000000000,2031,2,14660_49,Great Lakes Wooded Dune and Swale,Riparian,B
+985,985,3326.000000000000000,2033,7,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+986,986,9555.000000000000000,2033,3,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,C
+987,987,6643.000000000000000,2033,120,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+988,988,871.000000000000000,2029,2,14210_49_52,Central Tallgrass Prairie,Grassland,B
+989,989,1499.000000000000000,2031,1,14660_49,Great Lakes Wooded Dune and Swale,Riparian,A
+990,990,220.000000000000000,2036,2,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,B
+991,991,1279.000000000000000,2034,2,14720_49,Central Interior and Appalachian Riparian Systems,Riparian,B
+992,992,3714.000000000000000,1619,4,13130_47_50_51,North-Central Interior Beech-Maple Forest,Hardwood,D
+993,993,807.000000000000000,1635,4,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,D
+994,994,208.000000000000000,2034,1,14720_49,Central Interior and Appalachian Riparian Systems,Riparian,A
+995,995,20147.000000000000000,2018,4,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,D
+996,996,6.000000000000000,2017,2,13100_49,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,B
+997,997,1035.000000000000000,2034,120,14720_49,Central Interior and Appalachian Riparian Systems,Riparian,Developed
+998,998,15610.000000000000000,2018,120,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Developed
+999,999,8420.000000000000000,2018,7,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UE
+1000,1000,9823.000000000000000,2020,7,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,UE
+1001,1001,5681.000000000000000,2019,120,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Developed
+1002,1002,2307.000000000000000,2036,120,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Developed
+1003,1003,69.000000000000000,2036,7,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UE
+1004,1004,22.000000000000000,2036,6,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UN
+1005,1005,21320.000000000000000,2018,180,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Agriculture
+1006,1006,5869.000000000000000,2018,3,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,C
+1007,1007,16.000000000000000,1632,2,14210_31_38_42_43_44_50_51,Central Tallgrass Prairie,Grassland,B
+1008,1008,548999.000000000000000,1911,7,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,UE
+1009,1009,1182811.000000000000000,1911,120,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Developed
+1010,1010,257509.000000000000000,1909,3,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,C
+1011,1011,839612.000000000000000,1911,3,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,C
+1012,1012,1730095.000000000000000,1909,120,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,Developed
+1013,1013,1265252.000000000000000,1909,180,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,Agriculture
+1014,1014,585665.000000000000000,1909,7,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,UE
+1015,1015,648114.000000000000000,1909,4,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,D
+1016,1016,104213.000000000000000,1909,5,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,E
+1017,1017,101318.000000000000000,1916,7,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,UE
+1018,1018,114442.000000000000000,1916,3,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,C
+1019,1019,87992.000000000000000,1916,2,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,B
+1020,1020,101949.000000000000000,1916,120,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,Developed
+1021,1021,19991.000000000000000,1917,3,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,C
+1022,1022,7699.000000000000000,1917,7,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,UE
+1023,1023,3918.000000000000000,1917,180,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,Agriculture
+1024,1024,95733.000000000000000,1911,4,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,D
+1025,1025,1035458.000000000000000,1911,180,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Agriculture
+1026,1026,106048.000000000000000,1916,180,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,Agriculture
+1027,1027,12522.000000000000000,1916,1,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,A
+1028,1028,4771.000000000000000,1917,120,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,Developed
+1029,1029,36802.000000000000000,1911,2,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,B
+1030,1030,123618.000000000000000,1915,7,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+1031,1031,2147.000000000000000,1917,2,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,B
+1032,1032,7014.000000000000000,1909,6,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,UN
+1033,1033,1367.000000000000000,1917,6,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,UN
+1034,1034,5828.000000000000000,1909,1,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,A
+1035,1035,2856.000000000000000,1911,1,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,A
+1036,1036,2812.000000000000000,1909,132,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,Barren or Sparse
+1037,1037,119016.000000000000000,1915,120,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+1038,1038,343.000000000000000,1918,4,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,D
+1039,1039,214578.000000000000000,1915,3,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,C
+1040,1040,130351.000000000000000,1915,6,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+1041,1041,70.000000000000000,1918,6,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,UN
+1042,1042,2541.000000000000000,1915,1,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,A
+1043,1043,190320.000000000000000,1915,180,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+1044,1044,261.000000000000000,1918,7,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,UE
+1045,1045,26365.000000000000000,1915,2,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,B
+1046,1046,35.000000000000000,1916,4,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,D
+1047,1047,221.000000000000000,1916,5,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,E
+1048,1048,12810.000000000000000,1911,6,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,UN
+1049,1049,100.000000000000000,1915,4,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,D
+1050,1050,110.000000000000000,2020,2,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,B
+1051,1051,5.000000000000000,1622,4,13620_51_63_64_65_66,Laurentian-Acadian Northern Pine(-Oak) Forest,Hardwood-Conifer,D
+1052,1052,644.000000000000000,1914,3,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,C
+1053,1053,31.000000000000000,1914,6,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,UN
+1054,1054,699.000000000000000,1914,7,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,UE
+1055,1055,1555.000000000000000,1914,2,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,B
+1056,1056,47.000000000000000,1914,180,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Agriculture
+1057,1057,92360.000000000000000,1919,7,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UE
+1058,1058,78281.000000000000000,1919,2,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,B
+1059,1059,1716.000000000000000,1909,2,13030_62,Northeastern Interior Dry-Mesic Oak Forest,Hardwood,B
+1060,1060,83168.000000000000000,1919,180,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Agriculture
+1061,1061,65.000000000000000,1916,132,14720_61_62_63,Central Interior and Appalachian Riparian Systems,Riparian,Barren or Sparse
+1062,1062,24.000000000000000,1917,1,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,A
+1063,1063,150576.000000000000000,1919,120,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Developed
+1064,1064,3870.000000000000000,1911,132,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Barren or Sparse
+1065,1065,423.000000000000000,1914,120,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,Developed
+1066,1066,7738.000000000000000,1919,6,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UN
+1067,1067,1325.000000000000000,1919,1,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,A
+1068,1068,528.000000000000000,1917,132,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,Barren or Sparse
+1069,1069,473.000000000000000,1915,132,14710_51_62,Central Interior and Appalachian Floodplain Systems,Riparian,Barren or Sparse
+1070,1070,232.000000000000000,1918,180,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+1071,1071,145.000000000000000,1918,120,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+1072,1072,76.000000000000000,1631,132,14120_39_40_41_42_43_50_51,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Barren or Sparse
+1073,1073,917.000000000000000,2020,132,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,Barren or Sparse
+1074,1074,143.000000000000000,2028,120,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Developed
+1075,1075,1947514.000000000000000,1967,120,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Developed
+1076,1076,59599.000000000000000,1975,120,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Developed
+1077,1077,68440.000000000000000,1975,7,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UE
+1078,1078,558088.000000000000000,1967,7,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,UE
+1079,1079,761688.000000000000000,1967,3,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,C
+1080,1080,42476.000000000000000,1975,6,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,UN
+1081,1081,11850388.000000000000000,1967,180,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Agriculture
+1082,1082,26601.000000000000000,1967,4,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,D
+1083,1083,273566.000000000000000,1965,7,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UE
+1084,1084,933174.000000000000000,1965,120,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Developed
+1085,1085,4049.000000000000000,1975,3,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,C
+1086,1086,13260.000000000000000,1975,2,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,B
+1087,1087,91105.000000000000000,1975,180,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Agriculture
+1088,1088,501872.000000000000000,1974,120,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,Developed
+1089,1089,3695208.000000000000000,1974,180,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,Agriculture
+1090,1090,725256.000000000000000,1977,180,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Agriculture
+1091,1091,191892.000000000000000,1970,180,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Agriculture
+1092,1092,166582.000000000000000,1974,7,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,UE
+1093,1093,119716.000000000000000,1976,180,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Agriculture
+1094,1094,122113.000000000000000,1977,120,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Developed
+1095,1095,24290.000000000000000,1976,120,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Developed
+1096,1096,13521.000000000000000,1974,6,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,UN
+1097,1097,274537.000000000000000,1974,3,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,C
+1098,1098,38825.000000000000000,1977,7,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UE
+1099,1099,9940.000000000000000,1967,6,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,UN
+1100,1100,28419.000000000000000,1976,7,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,UE
+1101,1101,94771.000000000000000,1977,2,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,B
+1102,1102,57721.000000000000000,1976,4,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,D
+1103,1103,44247.000000000000000,1970,7,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,UE
+1104,1104,83287.000000000000000,1970,3,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,C
+1105,1105,20234.000000000000000,1976,6,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,UN
+1106,1106,2507.000000000000000,1970,1,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,A
+1107,1107,70573.000000000000000,1973,6,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,UN
+1108,1108,115071.000000000000000,1973,120,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,Developed
+1109,1109,119167.000000000000000,1973,7,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,UE
+1110,1110,3226264.000000000000000,1965,180,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Agriculture
+1111,1111,566200.000000000000000,1973,180,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,Agriculture
+1112,1112,151784.000000000000000,1973,3,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,C
+1113,1113,1067.000000000000000,1974,2,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,B
+1114,1114,3551.000000000000000,1974,1,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,A
+1115,1115,4622.000000000000000,1977,6,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,UN
+1116,1116,56140.000000000000000,1970,120,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Developed
+1117,1117,280683.000000000000000,1969,180,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,Agriculture
+1118,1118,205253.000000000000000,1969,120,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,Developed
+1119,1119,252368.000000000000000,1965,4,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,D
+1120,1120,50968.000000000000000,1969,7,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,UE
+1121,1121,65145.000000000000000,1969,3,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,C
+1122,1122,33.000000000000000,1966,6,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UN
+1123,1123,35615.000000000000000,1969,2,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,B
+1124,1124,69503.000000000000000,1965,3,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,C
+1125,1125,5530.000000000000000,1965,1,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,A
+1126,1126,2117.000000000000000,1972,6,14210_49_52,Central Tallgrass Prairie,Grassland,UN
+1127,1127,1083.000000000000000,1972,7,14210_49_52,Central Tallgrass Prairie,Grassland,UE
+1128,1128,3124.000000000000000,1969,6,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,UN
+1129,1129,338.000000000000000,1975,1,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,A
+1130,1130,1721.000000000000000,1967,2,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,B
+1131,1131,428179.000000000000000,1966,180,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Agriculture
+1132,1132,14528.000000000000000,1966,3,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,C
+1133,1133,648.000000000000000,1966,1,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,A
+1134,1134,2558.000000000000000,1974,132,14790_52_62,Central Interior and Appalachian Swamp Systems,Riparian,Barren or Sparse
+1135,1135,15956.000000000000000,1975,132,14920_41_50_51_52_63,Great Lakes Coastal Marsh Systems,Riparian,Barren or Sparse
+1136,1136,139146.000000000000000,1966,120,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Developed
+1137,1137,25.000000000000000,1969,1,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,A
+1138,1138,5800.000000000000000,1967,132,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Barren or Sparse
+1139,1139,158.000000000000000,1969,4,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,D
+1140,1140,892.000000000000000,1973,2,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,B
+1141,1141,304.000000000000000,1977,132,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Barren or Sparse
+1142,1142,147.000000000000000,1972,1,14210_49_52,Central Tallgrass Prairie,Grassland,A
+1143,1143,15039.000000000000000,1972,180,14210_49_52,Central Tallgrass Prairie,Grassland,Agriculture
+1144,1144,61952.000000000000000,1966,7,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UE
+1145,1145,562.000000000000000,1965,6,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UN
+1146,1146,489.000000000000000,1976,2,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,B
+1147,1147,63454.000000000000000,1966,4,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,D
+1148,1148,1938.000000000000000,1972,120,14210_49_52,Central Tallgrass Prairie,Grassland,Developed
+1149,1149,5243.000000000000000,1965,132,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Barren or Sparse
+1150,1150,672.000000000000000,1969,132,13950_41_42_43_49_52,North-Central Oak Barrens,Hardwood,Barren or Sparse
+1151,1151,371979.000000000000000,1968,180,13940_52,North-Central Interior Oak Savanna,Hardwood,Agriculture
+1152,1152,54463.000000000000000,1968,7,13940_52,North-Central Interior Oak Savanna,Hardwood,UE
+1153,1153,13648.000000000000000,1968,2,13940_52,North-Central Interior Oak Savanna,Hardwood,B
+1154,1154,358.000000000000000,1970,6,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,UN
+1155,1155,116868.000000000000000,1968,120,13940_52,North-Central Interior Oak Savanna,Hardwood,Developed
+1156,1156,1959.000000000000000,1965,5,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,E
+1157,1157,1.000000000000000,1972,132,14210_49_52,Central Tallgrass Prairie,Grassland,Barren or Sparse
+1158,1158,726.000000000000000,1976,132,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Barren or Sparse
+1159,1159,30.000000000000000,1977,1,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,A
+1160,1160,718.000000000000000,2027,120,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Developed
+1161,1161,1085.000000000000000,1968,1,13940_52,North-Central Interior Oak Savanna,Hardwood,A
+1162,1162,656.000000000000000,1966,132,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Barren or Sparse
+1163,1163,1062.000000000000000,1970,132,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Barren or Sparse
+1164,1164,568.000000000000000,1973,132,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,Barren or Sparse
+1165,1165,278.000000000000000,1970,2,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,B
+1166,1166,35.000000000000000,1965,2,13100_52,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,B
+1167,1167,40.000000000000000,1973,1,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,A
+1168,1168,485.000000000000000,1919,132,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Barren or Sparse
+1169,1169,148.000000000000000,1919,3,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,C
+1170,1170,8.000000000000000,1914,4,13700_53_61_62,Appalachian (Hemlock-)Northern Hardwood Forest,Hardwood,D
+1171,1171,39063.000000000000000,1968,3,13940_52,North-Central Interior Oak Savanna,Hardwood,C
+1172,1172,103.000000000000000,1967,1,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,A
+1173,1173,311.000000000000000,1977,3,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,C
+1174,1174,372.000000000000000,1973,4,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,D
+1175,1175,178.000000000000000,1968,4,13940_52,North-Central Interior Oak Savanna,Hardwood,D
+1176,1176,515.000000000000000,1966,5,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,E
+1177,1177,9.000000000000000,1918,132,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,Barren or Sparse
+1178,1178,522.000000000000000,2018,1,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,A
+1179,1179,1878.000000000000000,1971,6,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UN
+1180,1180,2308.000000000000000,1971,7,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UE
+1181,1181,1995.000000000000000,1971,120,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Developed
+1182,1182,39.000000000000000,1971,3,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,C
+1183,1183,8543.000000000000000,1971,180,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Agriculture
+1184,1184,19839.000000000000000,2019,180,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Agriculture
+1185,1185,181.000000000000000,2024,180,13940_44_49,North-Central Interior Oak Savanna,Hardwood,Agriculture
+1186,1186,3788.000000000000000,2019,7,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,UE
+1187,1187,8380.000000000000000,2019,3,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,C
+1188,1188,210.000000000000000,2024,120,13940_44_49,North-Central Interior Oak Savanna,Hardwood,Developed
+1189,1189,45.000000000000000,2024,7,13940_44_49,North-Central Interior Oak Savanna,Hardwood,UE
+1190,1190,41.000000000000000,2024,2,13940_44_49,North-Central Interior Oak Savanna,Hardwood,B
+1191,1191,79.000000000000000,2024,3,13940_44_49,North-Central Interior Oak Savanna,Hardwood,C
+1192,1192,945.000000000000000,2019,4,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,D
+1193,1193,107.000000000000000,2033,2,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,B
+1194,1194,20.000000000000000,2019,2,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,B
+1195,1195,247.000000000000000,2018,5,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,E
+1196,1196,384.000000000000000,2019,6,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,UN
+1197,1197,47.000000000000000,2018,6,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,UN
+1198,1198,118.000000000000000,2028,6,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UN
+1199,1199,4.000000000000000,2028,3,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,C
+1200,1200,40.000000000000000,2028,7,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,UE
+1201,1201,87.000000000000000,2028,180,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Agriculture
+1202,1202,1.000000000000000,2019,1,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,A
+1203,1203,2.000000000000000,2018,2,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,B
+1204,1204,60.000000000000000,2024,1,13940_44_49,North-Central Interior Oak Savanna,Hardwood,A
+1205,1205,118.000000000000000,2018,132,13110_49,North-Central Interior Dry Oak Forest and Woodland,Hardwood,Barren or Sparse
+1206,1206,46.000000000000000,2019,132,13130_49_52_62,North-Central Interior Beech-Maple Forest,Hardwood,Barren or Sparse
+1207,1207,165021.000000000000000,1910,180,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Agriculture
+1208,1208,116.000000000000000,1968,132,13940_52,North-Central Interior Oak Savanna,Hardwood,Barren or Sparse
+1209,1209,22947.000000000000000,1910,4,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,D
+1210,1210,14705.000000000000000,1910,7,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UE
+1211,1211,3941.000000000000000,1910,3,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,C
+1212,1212,43902.000000000000000,1910,120,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Developed
+1213,1213,228.000000000000000,1910,1,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,A
+1214,1214,225.000000000000000,1910,5,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,E
+1215,1215,373.000000000000000,1910,132,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,Barren or Sparse
+1216,1216,40.000000000000000,1910,6,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,UN
+1217,1217,2.000000000000000,2020,1,13140_49,North-Central Interior Maple-Basswood Forest,Hardwood,A
+1218,1218,22.000000000000000,1910,2,13100_41_62,North-Central Interior Dry-Mesic Oak Forest and Woodland,Hardwood,B
+1219,1219,1007.000000000000000,2031,132,14660_49,Great Lakes Wooded Dune and Swale,Riparian,Barren or Sparse
+1220,1220,18.000000000000000,2027,1,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,A
+1221,1221,8.000000000000000,2027,7,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,UE
+1222,1222,5.000000000000000,2027,132,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,Barren or Sparse
+1223,1223,1.000000000000000,2027,2,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,B
+1224,1224,3.000000000000000,1972,3,14210_49_52,Central Tallgrass Prairie,Grassland,C
+1225,1225,28.000000000000000,1976,3,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,C
+1226,1226,35.000000000000000,2033,132,14710_49_52,Central Interior and Appalachian Floodplain Systems,Riparian,Barren or Sparse
+1227,1227,14.000000000000000,2028,132,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Barren or Sparse
+1228,1228,39.000000000000000,1971,132,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,Barren or Sparse
+1229,1229,4.000000000000000,1966,2,13110_52,North-Central Interior Dry Oak Forest and Woodland,Hardwood,B
+1230,1230,6.000000000000000,1976,1,14930_52_62,Central Interior and Appalachian Shrub-Herbaceous Wetland Systems,Riparian,A
+1231,1231,2.000000000000000,1971,2,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,B
+1232,1232,2.000000000000000,1971,1,14120_52,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,A
+1233,1233,5.000000000000000,2036,132,15180_43_47_49_52_62_63_64_65,North-Central Interior Wet Flatwoods,Hardwood,Barren or Sparse
+1234,1234,21.000000000000000,2028,1,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,A
+1235,1235,1.000000000000000,2027,3,14110_49_51_52,Great Lakes Wet-Mesic Lakeplain Prairie,Riparian,C
+1236,1236,2.000000000000000,2028,2,14120_49,North-Central Interior Sand and Gravel Tallgrass Prairie,Grassland,B
