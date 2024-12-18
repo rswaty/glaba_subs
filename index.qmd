@@ -3,16 +3,29 @@ title: "Great Lakes Basin Assessment-Quick Web Report"
 author: "Randy Swaty"
 date: today
 ---
+<font size="4"> 
+**These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options. **
+
+</font> 
+
 
 ## Goals of this demonstration
 
-I put this together with [LANDFIRE](https://landfire.gov/){target="blank"} data (and model results) to:
+We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
 
-1. Help us think through the area of interest
-2. Give us an initial look at vegetation across the entire area
-3. Set the stage for exploration of other related datasets.
+1. Characterize and map past and present ecosystem conditions.
+2. Explore historical disturbance patterns.
+3. Summarize patterns of change and management opportunities.
 
-**All maps and charts should be considered draft if this statement is here. ** 
+
+The following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.
+
+
+This demonstration will:
+
+* Provide context for the past and present ecosystem conditions of the Rogue River Basin analysis area.
+* Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
+* Facilitate an understanding of historical and current conditions on a regional scale.
 
 ## Location
 
@@ -20,7 +33,12 @@ Great Lakes Basin Assessment Area-USFS Terrestrial Sub-Sections
 
 ![](images/aoi.jpg){width=100%}
 
+## How to use this web report
 
+* All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"}.
+* To share this web app, simply share the hyperlink.
+* Toggle between dark and light display of this site in the upper right corner of the page.
+* Learn more about LANDFIRE and The Nature Conservancy [here](about.qmd){target="blank}.   
 
 
 

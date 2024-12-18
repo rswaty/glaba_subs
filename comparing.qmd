@@ -21,7 +21,6 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 * Second we compare **amounts of succession classes** (past and present) for the most prevalent ecosystems. 
 
 ## Comparing Broad Vegetation Trends
-### Summary
 
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}

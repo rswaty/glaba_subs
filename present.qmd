@@ -3,7 +3,11 @@ title: "Present: Current Ecosystem Conditions"
 ---
 
 ```{r include=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
+library(extrafont)
 library(tidyverse)
+
+#font_import() only once per machine
+loadfonts(device = "win", quiet = TRUE)
 
 ```
 
@@ -31,44 +35,119 @@ Map simplified for clarity.  There are many many EVTs mapped in this region. For
 
 ![](images/evt.jpg){width=100%}
 
-<br>
 
-## Most Prevalent Existing Vegetation Types
-
-Only the top 10 EVTs were used in the chart, with no lumping of types.  
+*Only the top 10 EVTs were used in the chart, with no lumping of types. * 
 
 ```{r evt chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
-evtname <- read.csv(file = "data/evt_atts_r.csv") %>%
+
+geographies <- c(
+              "Boreal ",
+              "Central Interior and Appalachian ",
+              "Great Lakes ",
+              "Laurentian ",
+              "Laurentian-Acadian ",
+              "North-Central Interior ",
+              "North-Central Interior and Appalachian ",
+              "Sub-boreal ",
+              "Northern & Central ",
+              "Boreal-",
+              "Sub-boreal ",
+              "Northeastern North American ")
+
+evt_raw <- read.csv(file = "data/evt_atts_r.csv") 
+
+# Summarize the rows that need to be grouped
+grouped_df <- evt_raw %>%
+  filter(EVT_PHYS == "Agricultural" | grepl("Developed", EVT_PHYS)) %>%
+  mutate(EVT_PHYS = ifelse(grepl("Developed", EVT_PHYS), "Developed", EVT_PHYS)) %>%
+  group_by(EVT_PHYS, REL_PERCENT) %>%
+  summarize(ACRES = sum(ACRES), .groups = 'drop') %>%
+  mutate(EVT_NAME = EVT_PHYS)
+
+# Keep the rows that are not grouped
+non_grouped_df <- evt_raw %>%
+  filter(!(EVT_PHYS == "Agricultural" | grepl("Developed", EVT_PHYS)))
+
+# Combine the grouped and non-grouped data frames
+evtname <- bind_rows(grouped_df, non_grouped_df) %>%
+  select(EVT_NAME, EVT_PHYS, ACRES, REL_PERCENT) %>%
   group_by(EVT_NAME) %>%
   summarize(ACRES = sum(ACRES),
             REL_PERCENT = sum(REL_PERCENT)) %>%
   arrange(desc(REL_PERCENT)) %>%
-  top_n(n = 10, wt = REL_PERCENT)
+  filter(EVT_NAME != "Open Water")   %>%
+  dplyr::mutate(cumsum = cumsum(REL_PERCENT)) %>%
+  slice_max(ACRES, n = 13)
 
-# plot
+evt_phys <- bind_rows(grouped_df, non_grouped_df) %>%
+  select(EVT_NAME, EVT_PHYS, ACRES, REL_PERCENT) %>%
+  group_by(EVT_PHYS) %>%
+  summarize(ACRES = sum(ACRES),
+            REL_PERCENT = sum(REL_PERCENT)) %>%
+  filter(EVT_PHYS != c("Open Water")) %>%
+  arrange(desc(REL_PERCENT)) %>%
+  mutate(EVT_PHYS = str_replace_all(EVT_PHYS, fixed("Quarries-Strip Mines-Gravel Pits-Well and Wind Pads"), "Mines, Well and Wind Pads"))
+
+
+evtname$EVT_NAME <- gsub(paste(geographies, collapse = "|"), "", evtname$EVT_NAME)
+
+# evt_name plot
 evtChart <-
   ggplot(data = evtname, aes(x = EVT_NAME, y = REL_PERCENT)) +
   geom_bar(stat = "identity") +
   labs(
-    title = "Top 10 Existing Vegetation Types",
+    title = "Top Existing Vegetation Types",
     caption = "Data from landfire.gov",
     x = "",
-    y = "percent of landscape") +
+    y = "Percent of Landscape") +
   scale_x_discrete(limits = rev(evtname$EVT_NAME),
                    labels = function(x) str_wrap(x, width = 18)) +
   coord_flip() +
-  theme_bw(base_size = 14)
+  theme_bw(base_size = 18) +
+  theme(text = element_text(family = "Calibri",
+                            color = "#030302")) + 
+  theme(axis.text.x = element_text(colour = "#030302")) +
+  theme(axis.text.y = element_text(colour = "#030302"))
 
 
 
 evtChart
+
+
+# if the plot looks good, save it
+ggsave("./OUTPUTS/evtChart.png", width = 12, height = 10)
+
+# evt_phys plot
+evt_phys_chart <-
+  ggplot(data = evt_phys, aes(x = EVT_PHYS, y = REL_PERCENT)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Grouped Existing Vegetation Types",
+    caption = "Data from landfire.gov",
+    x = "",
+    y = "Percent of Landscape") +
+  scale_x_discrete(limits = rev(evt_phys$EVT_PHYS),
+                   labels = function(x) str_wrap(x, width = 18)) +
+  coord_flip() +
+  theme_bw(base_size = 18) +
+  theme(text = element_text(family = "Calibri",
+                            color = "#030302")) + 
+  theme(axis.text.x = element_text(colour = "#030302")) +
+  theme(axis.text.y = element_text(colour = "#030302"))
+
+
+
+evt_phys_chart
+
+# if the plot looks good, save it
+ggsave("./OUTPUTS/evt_phys_chart.png", width = 12, height = 7)
 ```
 
 <br>
 
 
 ## Existing Vegetation Cover
-The Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative dominance across the subregion
+The Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative dominance across the subregion.
 
 
 
@@ -133,15 +212,9 @@ evcgroup <- evcgroup %>% mutate(label = if_else(type %in% c("Tree", "Shrub", "He
 evclabel.list <- evcgroup$label
 evcgroup <- evcgroup %>% mutate(label = fct_rev(factor(label, evclabel.list)))
 
-
-
-# create factor level colors for legend (original from Myles)
-## cols <- c("Tree" = "#196F3D", "Shrub" = "#229954", "Herb" = "#52BE80", "Open Water" = "#7FB3D5",
-##          "Other" = "#808B96")
-
 # join in custom cols column to color bars by specific label
 
-evc_group_cols <- read.csv("data/evc_group_cols.csv")
+evc_group_cols <- read.csv("data/evc_group_acc.csv")
 
 evcgroup <- left_join(evcgroup, evc_group_cols, by = "label")
 
@@ -157,15 +230,22 @@ evcChart <-
   labs(
     title = "Existing Vegetation Cover",
     caption = "Data from landfire.gov",
-    x = "amount of landscape",
-    y = "most dominant lifeform") +
+    x = "",
+    y = "Percent") +
   scale_fill_identity() +
   coord_flip() +
-  theme_classic(base_size = 12)+
+  theme_bw(base_size = 18) +
+  theme(text = element_text(family = "Calibri",
+                            color = "#030302")) + 
+  theme(axis.text.x = element_text(colour = "#030302")) +
+  theme(axis.text.y = element_text(colour = "#030302"))+
   theme(legend.position = "none") 
 
 
 evcChart
+
+# if the plot looks good, save it
+ggsave("./OUTPUTS/evcChart.png", width = 12, height = 10)
 
 
 ```
@@ -230,12 +310,10 @@ evhgroup <- evhgroup %>% mutate(label = if_else(type %in% c("Tree", "Shrub", "He
 evhlabel.list <- evhgroup$label
 evhgroup <- evhgroup %>% mutate(label = fct_rev(factor(label, evhlabel.list)))
 
-# create factor level colors for legend
-##cols <- c("Tree" = "#196F3D", "Shrub" = "#229954", "Herb" = "#52BE80", "Open Water" = "#7FB3D5","Other" = "#808B96")
 
 # join in custom cols column to color bars by specific label
 
-evh_group_cols <- read.csv("data/evh_group_cols.csv")
+evh_group_cols <- read.csv("data/evh_group_acc.csv")
 
 evhgroup <- left_join(evhgroup, evh_group_cols, by = "label")
 
@@ -255,8 +333,12 @@ ggplot(data = evhgroup, aes(x = label, y = REL_PERCENT, fill = colors)) +
     y = "percent of landscape") +
   scale_fill_identity() +
   coord_flip() +
-  theme_classic(base_size = 12)+
-  theme(legend.position = "none")
+  theme_bw(base_size = 18) +
+  theme(text = element_text(family = "Calibri",
+                            color = "#030302")) + 
+  theme(axis.text.x = element_text(colour = "#030302")) +
+  theme(axis.text.y = element_text(colour = "#030302"))+
+  theme(legend.position = "none") 
 
 evhChart
 
@@ -279,7 +361,8 @@ evhChart
 # evhChart
 
 
-
+# if the plot looks good, save it
+ggsave("./OUTPUTS/evhChart.png", width = 12, height = 10)
 
 
 ```

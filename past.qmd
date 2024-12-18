@@ -12,7 +12,7 @@ Check out this 3-minute tutorial for a quick refresher on the [basics of Biophys
 
 ## Summary
 
-* When clipping by the entire 8-state area we get tons of prairie types that would be mostly abscent if I had clipped to GLRI boundary, or totally missing if I had filtered for only "Forest" types.
+* When clipping by the entire 8-state area we get tons of prairie types that would be mostly absent if I had clipped to GLRI boundary, or totally missing if I had filtered for only "Forest" types.
 * As expected northern hardwoods types dominated in terms of forested BpSs.
 * If non-forested types are removed, there will still be substantial fire-adapted BpSs in the GLRI boundary, such as the North-Central Interior Dry-Mesic Oak Forest and Woodland.
 
@@ -32,7 +32,19 @@ library(tidyverse)
 library(scales)
 library(stringr)
 
+geographies <- c(
+              "Boreal ",
+              "Central Interior and Appalachian ",
+              "Great Lakes ",
+              "Laurentian ",
+              "Laurentian-Acadian ",
+              "North-Central Interior ")
+
+
+
 bps_data <- read.csv("data/bps_atts_r.csv")
+
+bps_data$BPS_NAME <- gsub(paste(geographies, collapse = "|"), "", bps_data$BPS_NAME)
 
 bpsname <- bps_data %>%
   group_by(BPS_NAME) %>%
@@ -41,14 +53,14 @@ bpsname <- bps_data %>%
   arrange(desc(REL_PERCENT)) %>%
   subset(BPS_NAME != "Open Water" & BPS_NAME != "Barren-Rock/Sand/Clay") %>%
   distinct(BPS_NAME, .keep_all = TRUE) %>%
-  top_n(n = 10, wt = REL_PERCENT) 
+  top_n(n = 13, wt = REL_PERCENT) 
 
 # plot
 bpsChart <- 
   ggplot(data = bpsname, aes(x = BPS_NAME, y = REL_PERCENT)) +
   geom_bar(stat = "identity") +
   labs(
-    title = "Top 10 Biophysical Settings",
+    title = "Top 13 Biophysical Settings",
     caption = "Data from landfire.gov",
     x = "",
     y = "Percent of landscape") +
@@ -59,6 +71,9 @@ bpsChart <-
 
 
 bpsChart
+
+# if the plot looks good, save it
+ggsave("./OUTPUTS/bpsChart.png", width = 12, height = 9)
 ```
 
 ## Historic Annual Acres Burned (per ecosystem)
@@ -78,7 +93,7 @@ annualFire <- bps_data %>%
 # plot
 fireChart <- 
   ggplot(data = annualFire, aes(x = BPS_NAME, y = acres)) +
-  geom_bar(stat = "identity", fill = "#6e434c") +
+  geom_bar(stat = "identity") +
   labs(
     title = "Cumulative estimates of all fire types prior to pre-European colonization",
     caption = "Data from landfire.gov",
