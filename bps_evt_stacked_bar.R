@@ -4,6 +4,8 @@
 # January 14, 1971
 
 # Notes ----
+
+## More notes ----
 # make stacked bar chart, where each bar is a BpS, and the sections of each bar representing ag, urban, natural veg and other clearings
 
 # input data is a combine of BpS and EVT data for the AOI
@@ -12,6 +14,7 @@
 
 library(scales)
 library(tidyverse)
+library(plotly)
 
 
 # Load data
@@ -80,13 +83,13 @@ plot <-
   scale_x_discrete(limits = rev) +
   scale_y_continuous(labels = comma) + 
   theme_bw() + 
-  scale_fill_manual(values = c("#f5922f", # orange
+  scale_fill_manual(values = c("#74a36f", # orange
                                "#532a66", # purple
                                "#827c75", # grey
                                "#f5eb2f", # yellow
                                "#74a36f" # green-natural veg
-  ))+
-  theme(plot.caption = element_text(hjust = 0, face= "italic"), #Default is hjust=1
+  )) +
+  theme(plot.caption = element_text(hjust = 0, face = "italic"), #Default is hjust=1
         plot.title.position = "plot", #NEW parameter. Apply for subtitle too.
         plot.caption.position =  "plot") 
 
